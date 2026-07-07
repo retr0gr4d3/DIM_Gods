@@ -1,5 +1,5 @@
 title:Retr0gr4d3's Godrolls - Tried & Tested Community Data (Strict >=50%)
-description:Curated by Retr0gr4d3 using community data. Favours >= 50% of popularity and usage per perk. Updated on 2026-07-07 20:57:27
+description:Curated by Retr0gr4d3 using community data. Favours >= 50% of popularity and usage per perk. Updated on 2026-07-07 21:34:57
 
 // 1000 Yard Stare (Sniper Rifle) — 56 community rolls, 6 combos
 // True God: Fluted Barrel, Accurized Rounds, Lone Wolf, Snapshot Sights
@@ -84,6 +84,11 @@ dimwishlist:item=833898322&perks=2890807135,4293542123#notes:Abyss Defiant: Burn
 dimwishlist:item=833898322&perks=2890807135,365154968#notes:Abyss Defiant: Burning Ambition 89% / Target Lock 61% | True God: Polygonal Rifling, Ricochet Rounds, Burning Ambition, Incandescent [Retr0gr4d3's Curated List · 18 rolls]
 dimwishlist:item=833898322&perks=3017780555,4293542123#notes:Abyss Defiant: Heal Clip 78% / Incandescent 100% | True God: Polygonal Rifling, Ricochet Rounds, Burning Ambition, Incandescent [Retr0gr4d3's Curated List · 18 rolls]
 dimwishlist:item=833898322&perks=3017780555,365154968#notes:Abyss Defiant: Heal Clip 78% / Target Lock 61% | True God: Polygonal Rifling, Ricochet Rounds, Burning Ambition, Incandescent [Retr0gr4d3's Curated List · 18 rolls]
+
+// Abyss Defiant (Adept) (Auto Rifle) — 26 community rolls, 1 combos
+// True God: Fluted Barrel, Ricochet Rounds, Pugilist, Collective Action
+dimwishlist:item=3782662983&perks=1840239774,1885400500,691659142,3324494224#notes:True God: Fluted Barrel, Ricochet Rounds, Pugilist, Collective Action [Retr0gr4d3's Curated List · Voltron fallback · 26 rolls]
+dimwishlist:item=3782662983&perks=691659142,3324494224#notes:Abyss Defiant (Adept): Pugilist 62% / Collective Action 62% | True God: Fluted Barrel, Ricochet Rounds, Pugilist, Collective Action [Retr0gr4d3's Curated List · Voltron fallback · 26 rolls]
 
 // Abyssal Edge (Sword) — 11 community rolls, 9 combos
 // True God: Jagged Edge, Swordmaster's Guard, Relentless Strikes, Surrounded
@@ -285,6 +290,12 @@ dimwishlist:item=621450049&perks=2980589453,831391274#notes:Adamantite: Physic 1
 dimwishlist:item=621450049&perks=692399809,2298656195#notes:Adamantite: Reciprocity 92% / Circle of Life 100% | True God: Arrowhead Brake, Tactical Mag, Physic, Circle of Life [Retr0gr4d3's Curated List · 40 rolls]
 dimwishlist:item=621450049&perks=692399809,831391274#notes:Adamantite: Reciprocity 92% / Hatchling 80% | True God: Arrowhead Brake, Tactical Mag, Physic, Circle of Life [Retr0gr4d3's Curated List · 40 rolls]
 
+// Adhortative (Pulse Rifle) — 72 community rolls, 2 combos
+// True God: Smallbore, Ricochet Rounds, Feeding Frenzy, Rampage
+dimwishlist:item=1167153950&perks=1482024992,1885400500,2779035018,3425386926#notes:True God: Smallbore, Ricochet Rounds, Feeding Frenzy, Rampage [Retr0gr4d3's Curated List · Voltron fallback · 72 rolls]
+dimwishlist:item=1167153950&perks=2779035018,3425386926#notes:Adhortative: Feeding Frenzy 100% / Rampage 50% | True God: Smallbore, Ricochet Rounds, Feeding Frenzy, Rampage [Retr0gr4d3's Curated List · Voltron fallback · 72 rolls]
+dimwishlist:item=1167153950&perks=2779035018,2458213969#notes:Adhortative: Feeding Frenzy 100% / Multikill Clip 50% | True God: Smallbore, Ricochet Rounds, Feeding Frenzy, Rampage [Retr0gr4d3's Curated List · Voltron fallback · 72 rolls]
+
 // Adjudicator (Submachine Gun) — 33 community rolls, 9 combos
 // True God: Fluted Barrel, Flared Magwell, Attrition Orbs, Target Lock
 dimwishlist:item=140914741&perks=1840239774,3230963543,243981275,365154968#notes:True God: Fluted Barrel, Flared Magwell, Attrition Orbs, Target Lock [Retr0gr4d3's Curated List · 33 rolls]
@@ -310,6 +321,11 @@ dimwishlist:item=3156551029&perks=2579169598,555281244#notes:Admetus-D: Lone Wol
 dimwishlist:item=3156551029&perks=247725512,4293542123#notes:Admetus-D: Rapid Hit 64% / Incandescent 100% | True God: Fluted Barrel, Ricochet Rounds, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 11 rolls]
 dimwishlist:item=3156551029&perks=247725512,1015611457#notes:Admetus-D: Rapid Hit 64% / Kill Clip 73% | True God: Fluted Barrel, Ricochet Rounds, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 11 rolls]
 dimwishlist:item=3156551029&perks=247725512,555281244#notes:Admetus-D: Rapid Hit 64% / Precision Instrument 64% | True God: Fluted Barrel, Ricochet Rounds, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 11 rolls]
+
+// Adored (Sniper Rifle) — 15 community rolls, 1 combos
+// True God: Hammer-Forged Rifling, Accurized Rounds, Killing Wind, Snapshot Sights
+dimwishlist:item=4184808992&perks=3250034553,3142289711,2450788523,957782887#notes:True God: Hammer-Forged Rifling, Accurized Rounds, Killing Wind, Snapshot Sights [Retr0gr4d3's Curated List · Voltron fallback · 15 rolls]
+dimwishlist:item=4184808992&perks=2450788523,957782887#notes:Adored: Killing Wind 53% / Snapshot Sights 53% | True God: Hammer-Forged Rifling, Accurized Rounds, Killing Wind, Snapshot Sights [Retr0gr4d3's Curated List · Voltron fallback · 15 rolls]
 
 // Adored (Sniper Rifle) — 37 community rolls, 3 combos
 // True God: Fluted Barrel, Accurized Rounds, Snapshot Sights, Opening Shot
@@ -604,6 +620,14 @@ dimwishlist:item=2187337757&perks=4293542123,4104185692#notes:Arctic Haze: Incan
 dimwishlist:item=2187337757&perks=3017780555,2890807135#notes:Arctic Haze: Heal Clip 87% / Burning Ambition 100% | True God: Arrowhead Brake, Tactical Mag, Incandescent, Burning Ambition [Retr0gr4d3's Curated List · 54 rolls]
 dimwishlist:item=2187337757&perks=3017780555,4104185692#notes:Arctic Haze: Heal Clip 87% / Frenzy 69% | True God: Arrowhead Brake, Tactical Mag, Incandescent, Burning Ambition [Retr0gr4d3's Curated List · 54 rolls]
 
+// Ascendancy (Rocket Launcher) — 16 community rolls, 4 combos
+// True God: Quick Launch, Impact Casing, Ambitious Assassin, Explosive Light
+dimwishlist:item=725408022&perks=3525010810,3796465595,2010801679,3194351027#notes:True God: Quick Launch, Impact Casing, Ambitious Assassin, Explosive Light [Retr0gr4d3's Curated List · Voltron fallback · 16 rolls]
+dimwishlist:item=725408022&perks=2010801679,3194351027#notes:Ascendancy: Ambitious Assassin 50% / Explosive Light 50% | True God: Quick Launch, Impact Casing, Ambitious Assassin, Explosive Light [Retr0gr4d3's Curated List · Voltron fallback · 16 rolls]
+dimwishlist:item=725408022&perks=2010801679,2396489472#notes:Ascendancy: Ambitious Assassin 50% / Chain Reaction 50% | True God: Quick Launch, Impact Casing, Ambitious Assassin, Explosive Light [Retr0gr4d3's Curated List · Voltron fallback · 16 rolls]
+dimwishlist:item=725408022&perks=951095735,3194351027#notes:Ascendancy: Impulse Amplifier 50% / Explosive Light 50% | True God: Quick Launch, Impact Casing, Ambitious Assassin, Explosive Light [Retr0gr4d3's Curated List · Voltron fallback · 16 rolls]
+dimwishlist:item=725408022&perks=951095735,2396489472#notes:Ascendancy: Impulse Amplifier 50% / Chain Reaction 50% | True God: Quick Launch, Impact Casing, Ambitious Assassin, Explosive Light [Retr0gr4d3's Curated List · Voltron fallback · 16 rolls]
+
 // Ascendancy (Rocket Launcher) — 14 community rolls, 9 combos
 // True God: Quick Launch, Impact Casing, Reconstruction, Explosive Light
 dimwishlist:item=1713388226&perks=3525010810,3796465595,1523832109,3194351027#notes:True God: Quick Launch, Impact Casing, Reconstruction, Explosive Light [Retr0gr4d3's Curated List · 14 rolls]
@@ -682,6 +706,11 @@ dimwishlist:item=3786215462&perks=4245865861,2978966579#notes:Aurvandil FR6: Sub
 dimwishlist:item=3055790362&perks=1147230557,1885400500,699525795,1748774930#notes:True God: Hammer-Forged Rifling, Ricochet Rounds, Eye of the Storm, Zen Moment [Retr0gr4d3's Curated List · 17 rolls]
 dimwishlist:item=3055790362&perks=699525795,1748774930#notes:Austringer: Eye of the Storm 100% / Zen Moment 88% | True God: Hammer-Forged Rifling, Ricochet Rounds, Eye of the Storm, Zen Moment [Retr0gr4d3's Curated List · 17 rolls]
 dimwishlist:item=3055790362&perks=699525795,47981717#notes:Austringer: Eye of the Storm 100% / Opening Shot 65% | True God: Hammer-Forged Rifling, Ricochet Rounds, Eye of the Storm, Zen Moment [Retr0gr4d3's Curated List · 17 rolls]
+
+// Austringer (Hand Cannon) — 3 community rolls, 1 combos
+// True God: Hammer-Forged Rifling, Accurized Rounds, Outlaw, Rangefinder
+dimwishlist:item=2429822977&perks=3250034553,3142289711,1168162263,2846385770#notes:True God: Hammer-Forged Rifling, Accurized Rounds, Outlaw, Rangefinder [Retr0gr4d3's Curated List · Voltron fallback · 3 rolls]
+dimwishlist:item=2429822977&perks=1168162263,2846385770#notes:Austringer: Outlaw 100% / Rangefinder 67% | True God: Hammer-Forged Rifling, Accurized Rounds, Outlaw, Rangefinder [Retr0gr4d3's Curated List · Voltron fallback · 3 rolls]
 
 // Autumn Wind (Pulse Rifle) — 28 community rolls, 6 combos
 // True God: Hammer-Forged Rifling, Ricochet Rounds, Zen Moment, Desperado
@@ -903,11 +932,21 @@ dimwishlist:item=2599338625&perks=981914802,3301904089,3987942396,3078487919#not
 dimwishlist:item=2599338625&perks=3987942396,3078487919#notes:Bitter/Sweet: Envious Arsenal 100% / Bait and Switch 100% | True God: Hard Launch, Spike Grenades, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 5 rolls]
 dimwishlist:item=2599338625&perks=243981275,3078487919#notes:Bitter/Sweet: Attrition Orbs 80% / Bait and Switch 100% | True God: Hard Launch, Spike Grenades, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 5 rolls]
 
+// Black Scorpion-4sr (Scout Rifle) — 2 community rolls, 1 combos
+// True God: Extended Barrel, Accurized Rounds, Moving Target, Rampage
+dimwishlist:item=525750263&perks=1467527085,3142289711,588594999,3425386926#notes:True God: Extended Barrel, Accurized Rounds, Moving Target, Rampage [Retr0gr4d3's Curated List · Voltron fallback · 2 rolls]
+dimwishlist:item=525750263&perks=588594999,3425386926#notes:Black Scorpion-4sr: Moving Target 100% / Rampage 100% | True God: Extended Barrel, Accurized Rounds, Moving Target, Rampage [Retr0gr4d3's Curated List · Voltron fallback · 2 rolls]
+
 // Blasphemer (Shotgun) — 23 community rolls, 2 combos
 // True God: Fluted Barrel, Accurized Rounds, Threat Detector, Opening Shot
 dimwishlist:item=2527058297&perks=1840239774,3142289711,4071163871,47981717#notes:True God: Fluted Barrel, Accurized Rounds, Threat Detector, Opening Shot [Retr0gr4d3's Curated List · 23 rolls]
 dimwishlist:item=2527058297&perks=4071163871,47981717#notes:Blasphemer: Threat Detector 100% / Opening Shot 100% | True God: Fluted Barrel, Accurized Rounds, Threat Detector, Opening Shot [Retr0gr4d3's Curated List · 23 rolls]
 dimwishlist:item=2527058297&perks=706527188,47981717#notes:Blasphemer: Quickdraw 65% / Opening Shot 100% | True God: Fluted Barrel, Accurized Rounds, Threat Detector, Opening Shot [Retr0gr4d3's Curated List · 23 rolls]
+
+// Blast Furnace (Pulse Rifle) — 5 community rolls, 1 combos
+// True God: Rasmussen ISA, Drop Mag, Outlaw, Kill Clip
+dimwishlist:item=3843477312&perks=1096957638,4134353779,1168162263,1015611457#notes:True God: Rasmussen ISA, Drop Mag, Outlaw, Kill Clip [Retr0gr4d3's Curated List · Voltron fallback · 5 rolls]
+dimwishlist:item=3843477312&perks=1168162263,1015611457#notes:Blast Furnace: Outlaw 60% / Kill Clip 80% | True God: Rasmussen ISA, Drop Mag, Outlaw, Kill Clip [Retr0gr4d3's Curated List · Voltron fallback · 5 rolls]
 
 // Blast Furnace (Pulse Rifle) — 88 community rolls, 3 combos
 // True God: Arrowhead Brake, Tactical Mag, Kinetic Tremors, Chaos Reshaped
@@ -989,6 +1028,11 @@ dimwishlist:item=2328923181&perks=1840239774,3142289711,3523296417,831391274#not
 dimwishlist:item=2328923181&perks=3523296417,831391274#notes:Breachlight: Demolitionist 100% / Hatchling 100% | True God: Fluted Barrel, Accurized Rounds, Demolitionist, Hatchling [Retr0gr4d3's Curated List · 7 rolls]
 dimwishlist:item=2328923181&perks=691659142,831391274#notes:Breachlight: Pugilist 86% / Hatchling 100% | True God: Fluted Barrel, Accurized Rounds, Demolitionist, Hatchling [Retr0gr4d3's Curated List · 7 rolls]
 
+// Breakneck (Auto Rifle) — 1 community rolls, 1 combos
+// True God: Polygonal Rifling, Extended Mag, Onslaught
+dimwishlist:item=324382200&perks=1392496348,2420895100,95528736#notes:True God: Polygonal Rifling, Extended Mag, Onslaught [Retr0gr4d3's Curated List · Voltron fallback · 1 rolls]
+dimwishlist:item=324382200&perks=95528736#notes:Breakneck: Onslaught 100% | True God: Polygonal Rifling, Extended Mag, Onslaught [Retr0gr4d3's Curated List · Voltron fallback · 1 rolls]
+
 // Breakneck (Auto Rifle) — 26 community rolls, 6 combos
 // True God: Arrowhead Brake, Ricochet Rounds, Subsistence, Onslaught
 dimwishlist:item=2026755633&perks=839105230,1885400500,1820235745,95528736#notes:True God: Arrowhead Brake, Ricochet Rounds, Subsistence, Onslaught [Retr0gr4d3's Curated List · 26 rolls]
@@ -1008,6 +1052,12 @@ dimwishlist:item=2065366343&perks=1820235745,243981275#notes:Breakneck: Subsiste
 dimwishlist:item=2065366343&perks=3700496672,95528736#notes:Breakneck: Shoot to Loot 62% / Onslaught 100% | True God: Arrowhead Brake, Ricochet Rounds, Subsistence, Onslaught [Retr0gr4d3's Curated List · 26 rolls]
 dimwishlist:item=2065366343&perks=3700496672,3891536761#notes:Breakneck: Shoot to Loot 62% / Kinetic Tremors 100% | True God: Arrowhead Brake, Ricochet Rounds, Subsistence, Onslaught [Retr0gr4d3's Curated List · 26 rolls]
 dimwishlist:item=2065366343&perks=3700496672,243981275#notes:Breakneck: Shoot to Loot 62% / Attrition Orbs 50% | True God: Arrowhead Brake, Ricochet Rounds, Subsistence, Onslaught [Retr0gr4d3's Curated List · 26 rolls]
+
+// Breath of the Dragon (Submachine Gun) — 4 community rolls, 2 combos
+// True God: Hammer-Forged Rifling, Ricochet Rounds, Zen Moment, Kill Clip
+dimwishlist:item=1357080535&perks=3250034553,1885400500,2387244414,1015611457#notes:True God: Hammer-Forged Rifling, Ricochet Rounds, Zen Moment, Kill Clip [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+dimwishlist:item=1357080535&perks=2387244414,1015611457#notes:Breath of the Dragon: Zen Moment 50% / Kill Clip 100% | True God: Hammer-Forged Rifling, Ricochet Rounds, Zen Moment, Kill Clip [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+dimwishlist:item=1357080535&perks=2039302152,1015611457#notes:Breath of the Dragon: Slideways 50% / Kill Clip 100% | True God: Hammer-Forged Rifling, Ricochet Rounds, Zen Moment, Kill Clip [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
 
 // Briar's Contempt (Linear Fusion Rifle) — 14 community rolls, 6 combos
 // True God: Arrowhead Brake, Accelerated Coils, Rewind Rounds, Chaos Reshaped
@@ -1093,6 +1143,11 @@ dimwishlist:item=2708806099&perks=1347741687,4293542123#notes:BxR-55 Battler: Ou
 dimwishlist:item=2708806099&perks=1347741687,2923251173#notes:BxR-55 Battler: Outlaw 62% / Kill Clip 100% | True God: Arrowhead Brake, Accurized Rounds, Demolitionist, Incandescent [Retr0gr4d3's Curated List · 8 rolls]
 dimwishlist:item=2708806099&perks=1347741687,454085387#notes:BxR-55 Battler: Outlaw 62% / Blunt Execution Rounds 62% | True God: Arrowhead Brake, Accurized Rounds, Demolitionist, Incandescent [Retr0gr4d3's Curated List · 8 rolls]
 
+// Bygones (Pulse Rifle) — 6 community rolls, 1 combos
+// True God: Extended Barrel, High-Caliber Rounds, Kill Clip, Outlaw
+dimwishlist:item=2712244741&perks=1467527085,1561002382,1015611457,1168162263#notes:True God: Extended Barrel, High-Caliber Rounds, Kill Clip, Outlaw [Retr0gr4d3's Curated List · Voltron fallback · 6 rolls]
+dimwishlist:item=2712244741&perks=1015611457,1168162263#notes:Bygones: Kill Clip 83% / Outlaw 100% | True God: Extended Barrel, High-Caliber Rounds, Kill Clip, Outlaw [Retr0gr4d3's Curated List · Voltron fallback · 6 rolls]
+
 // Bygones (Pulse Rifle) — 34 community rolls, 9 combos
 // True God: Arrowhead Brake, Ricochet Rounds, Keep Away, Headseeker
 dimwishlist:item=767170345&perks=839105230,1885400500,3619207468,460017080#notes:True God: Arrowhead Brake, Ricochet Rounds, Keep Away, Headseeker [Retr0gr4d3's Curated List · 34 rolls]
@@ -1157,6 +1212,12 @@ dimwishlist:item=3805679279&perks=3300816228,3194351027#notes:Cataphract GL3: Au
 dimwishlist:item=3805679279&perks=951095735,3078487919#notes:Cataphract GL3: Impulse Amplifier 50% / Bait and Switch 100% | True God: Hard Launch, Spike Grenades, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 18 rolls]
 dimwishlist:item=3805679279&perks=951095735,3194351027#notes:Cataphract GL3: Impulse Amplifier 50% / Explosive Light 78% | True God: Hard Launch, Spike Grenades, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 18 rolls]
 
+// Chain of Command (Machine Gun) — 4 community rolls, 2 combos
+// True God: Arrowhead Brake, High-Caliber Rounds, Adrenaline Junkie, Adaptive Munitions
+dimwishlist:item=3105930175&perks=839105230,1561002382,11612903,1048183818#notes:True God: Arrowhead Brake, High-Caliber Rounds, Adrenaline Junkie, Adaptive Munitions [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+dimwishlist:item=3105930175&perks=11612903,1048183818#notes:Chain of Command: Adrenaline Junkie 75% / Adaptive Munitions 50% | True God: Arrowhead Brake, High-Caliber Rounds, Adrenaline Junkie, Adaptive Munitions [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+dimwishlist:item=3105930175&perks=11612903,3523296417#notes:Chain of Command: Adrenaline Junkie 75% / Demolitionist 50% | True God: Arrowhead Brake, High-Caliber Rounds, Adrenaline Junkie, Adaptive Munitions [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+
 // Chain of Command (Machine Gun) — 30 community rolls, 6 combos
 // True God: Arrowhead Brake, Appended Mag, Overflow, Killing Tally
 dimwishlist:item=1716620044&perks=839105230,1087426260,3643424744,557221067#notes:True God: Arrowhead Brake, Appended Mag, Overflow, Killing Tally [Retr0gr4d3's Curated List · 30 rolls]
@@ -1202,6 +1263,12 @@ dimwishlist:item=4157371152&perks=1015611457,460017080#notes:Chattering Bone: Ki
 dimwishlist:item=4157371152&perks=2289534249,3891536761#notes:Chattering Bone: Bewildering Burst 57% / Kinetic Tremors 100% | True God: Arrowhead Brake, Accurized Rounds, Attrition Orbs, Kinetic Tremors [Retr0gr4d3's Curated List · 44 rolls]
 dimwishlist:item=4157371152&perks=2289534249,3640170453#notes:Chattering Bone: Bewildering Burst 57% / Chaos Reshaped 100% | True God: Arrowhead Brake, Accurized Rounds, Attrition Orbs, Kinetic Tremors [Retr0gr4d3's Curated List · 44 rolls]
 dimwishlist:item=4157371152&perks=2289534249,460017080#notes:Chattering Bone: Bewildering Burst 57% / Headseeker 73% | True God: Arrowhead Brake, Accurized Rounds, Attrition Orbs, Kinetic Tremors [Retr0gr4d3's Curated List · 44 rolls]
+
+// Chivalric Fire (Sword) — 6 community rolls, 2 combos
+// True God: Tempered Edge, Balanced Guard, Relentless Strikes, Destabilizing Rounds
+dimwishlist:item=3438139008&perks=938542991,52780822,1749209109,2048641572#notes:True God: Tempered Edge, Balanced Guard, Relentless Strikes, Destabilizing Rounds [Retr0gr4d3's Curated List · Voltron fallback · 6 rolls]
+dimwishlist:item=3438139008&perks=1749209109,2048641572#notes:Chivalric Fire: Relentless Strikes 50% / Destabilizing Rounds 67% | True God: Tempered Edge, Balanced Guard, Relentless Strikes, Destabilizing Rounds [Retr0gr4d3's Curated List · Voltron fallback · 6 rolls]
+dimwishlist:item=3438139008&perks=776531651,2048641572#notes:Chivalric Fire: Repulsor Brace 50% / Destabilizing Rounds 67% | True God: Tempered Edge, Balanced Guard, Relentless Strikes, Destabilizing Rounds [Retr0gr4d3's Curated List · Voltron fallback · 6 rolls]
 
 // Chivalric Fire (Sword) — 18 community rolls, 9 combos
 // True God: Jagged Edge, Swordmaster's Guard, Relentless Strikes, Eager Edge
@@ -1251,6 +1318,14 @@ dimwishlist:item=2528793321&perks=3523296417,2305480722#notes:Circular Logic: De
 dimwishlist:item=2528793321&perks=3643424744,557221067#notes:Circular Logic: Overflow 76% / Killing Tally 100% | True God: Arrowhead Brake, Appended Mag, Firefly, Killing Tally [Retr0gr4d3's Curated List · 25 rolls]
 dimwishlist:item=2528793321&perks=3643424744,831391274#notes:Circular Logic: Overflow 76% / Hatchling 84% | True God: Arrowhead Brake, Appended Mag, Firefly, Killing Tally [Retr0gr4d3's Curated List · 25 rolls]
 dimwishlist:item=2528793321&perks=3643424744,2305480722#notes:Circular Logic: Overflow 76% / Mega Kill Clip 64% | True God: Arrowhead Brake, Appended Mag, Firefly, Killing Tally [Retr0gr4d3's Curated List · 25 rolls]
+
+// Claws of the Wolf (Pulse Rifle) — 4 community rolls, 4 combos
+// True God: Chambered Compensator, Ricochet Rounds, Outlaw, Kill Clip
+dimwishlist:item=1280933460&perks=3661387068,1885400500,1168162263,1015611457#notes:True God: Chambered Compensator, Ricochet Rounds, Outlaw, Kill Clip [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+dimwishlist:item=1280933460&perks=1168162263,1015611457#notes:Claws of the Wolf: Outlaw 50% / Kill Clip 50% | True God: Chambered Compensator, Ricochet Rounds, Outlaw, Kill Clip [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+dimwishlist:item=1280933460&perks=1168162263,2846385770#notes:Claws of the Wolf: Outlaw 50% / Rangefinder 50% | True God: Chambered Compensator, Ricochet Rounds, Outlaw, Kill Clip [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+dimwishlist:item=1280933460&perks=3161816588,1015611457#notes:Claws of the Wolf: Slideshot 50% / Kill Clip 50% | True God: Chambered Compensator, Ricochet Rounds, Outlaw, Kill Clip [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+dimwishlist:item=1280933460&perks=3161816588,2846385770#notes:Claws of the Wolf: Slideshot 50% / Rangefinder 50% | True God: Chambered Compensator, Ricochet Rounds, Outlaw, Kill Clip [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
 
 // Claws of the Wolf (Pulse Rifle) — 32 community rolls, 6 combos
 // True God: Arrowhead Brake, Ricochet Rounds, Headseeker, Kill Clip
@@ -1305,6 +1380,11 @@ dimwishlist:item=324584913&perks=3828510309,3047969693#notes:Cold Denial: Enligh
 dimwishlist:item=324584913&perks=2946784966,460017080#notes:Cold Denial: Tunnel Vision 50% / Headseeker 100% | True God: Arrowhead Brake, Ricochet Rounds, Zen Moment, Headseeker [Retr0gr4d3's Curated List · 14 rolls]
 dimwishlist:item=324584913&perks=2946784966,3047969693#notes:Cold Denial: Tunnel Vision 50% / Desperado 100% | True God: Arrowhead Brake, Ricochet Rounds, Zen Moment, Headseeker [Retr0gr4d3's Curated List · 14 rolls]
 
+// Combined Action (Hand Cannon) — 52 community rolls, 1 combos
+// True God: Smallbore, Accurized Rounds, Zen Moment, Timed Payload
+dimwishlist:item=1331824604&perks=1482024992,3142289711,2387244414,1954620775#notes:True God: Smallbore, Accurized Rounds, Zen Moment, Timed Payload [Retr0gr4d3's Curated List · Voltron fallback · 52 rolls]
+dimwishlist:item=1331824604&perks=2387244414,1954620775#notes:Combined Action: Zen Moment 50% / Timed Payload 50% | True God: Smallbore, Accurized Rounds, Zen Moment, Timed Payload [Retr0gr4d3's Curated List · Voltron fallback · 52 rolls]
+
 // Come to Pass (Auto Rifle) — 9 community rolls, 6 combos
 // True God: Arrowhead Brake, Flared Magwell, Supercharged Magazine, Jolting Feedback
 dimwishlist:item=927567426&perks=839105230,1709045111,1511100135,3966416502#notes:True God: Arrowhead Brake, Flared Magwell, Supercharged Magazine, Jolting Feedback [Retr0gr4d3's Curated List · 9 rolls]
@@ -1332,6 +1412,14 @@ dimwishlist:item=2819552809&perks=307683764,776531651#notes:Compact Defender: De
 dimwishlist:item=2659286158&perks=839105230,1806718225,2048641572,776531651#notes:True God: Arrowhead Brake, Accelerated Heatsink, Destabilizing Rounds, Repulsor Brace [Retr0gr4d3's Curated List · 48 rolls]
 dimwishlist:item=2659286158&perks=2048641572,776531651#notes:Compact Defender: Destabilizing Rounds 100% / Repulsor Brace 100% | True God: Arrowhead Brake, Accelerated Heatsink, Destabilizing Rounds, Repulsor Brace [Retr0gr4d3's Curated List · 48 rolls]
 dimwishlist:item=2659286158&perks=307683764,776531651#notes:Compact Defender: Delicate Tuning 54% / Repulsor Brace 100% | True God: Arrowhead Brake, Accelerated Heatsink, Destabilizing Rounds, Repulsor Brace [Retr0gr4d3's Curated List · 48 rolls]
+
+// Compass Rose (Shotgun) — 16 community rolls, 4 combos
+// True God: Corkscrew Rifling, Assault Mag, Lead from Gold, Trench Barrel
+dimwishlist:item=233896077&perks=4090651448,791862061,1556840489,2360754333#notes:True God: Corkscrew Rifling, Assault Mag, Lead from Gold, Trench Barrel [Retr0gr4d3's Curated List · Voltron fallback · 16 rolls]
+dimwishlist:item=233896077&perks=1556840489,2360754333#notes:Compass Rose: Lead from Gold 50% / Trench Barrel 50% | True God: Corkscrew Rifling, Assault Mag, Lead from Gold, Trench Barrel [Retr0gr4d3's Curated List · Voltron fallback · 16 rolls]
+dimwishlist:item=233896077&perks=1556840489,4293542123#notes:Compass Rose: Lead from Gold 50% / Incandescent 50% | True God: Corkscrew Rifling, Assault Mag, Lead from Gold, Trench Barrel [Retr0gr4d3's Curated List · Voltron fallback · 16 rolls]
+dimwishlist:item=233896077&perks=1631667848,2360754333#notes:Compass Rose: Grave Robber 50% / Trench Barrel 50% | True God: Corkscrew Rifling, Assault Mag, Lead from Gold, Trench Barrel [Retr0gr4d3's Curated List · Voltron fallback · 16 rolls]
+dimwishlist:item=233896077&perks=1631667848,4293542123#notes:Compass Rose: Grave Robber 50% / Incandescent 50% | True God: Corkscrew Rifling, Assault Mag, Lead from Gold, Trench Barrel [Retr0gr4d3's Curated List · Voltron fallback · 16 rolls]
 
 // Compass Rose (Shotgun) — 25 community rolls, 1 combos
 // True God: Barrel Shroud, Accurized Rounds, Threat Detector, Opening Shot
@@ -1450,6 +1538,17 @@ dimwishlist:item=172461430&perks=2978966579,3640170453#notes:Critical Anomaly (A
 dimwishlist:item=172461430&perks=2978966579,3078487919#notes:Critical Anomaly (Adept): Chill Clip 74% / Bait and Switch 70% | True God: Fluted Barrel, Tactical Mag, Rewind Rounds, Chaos Reshaped [Retr0gr4d3's Curated List · 23 rolls]
 dimwishlist:item=172461430&perks=2978966579,957782887#notes:Critical Anomaly (Adept): Chill Clip 74% / Snapshot Sights 70% | True God: Fluted Barrel, Tactical Mag, Rewind Rounds, Chaos Reshaped [Retr0gr4d3's Curated List · 23 rolls]
 
+// Crown-Splitter (Sword) — 31 community rolls, 1 combos
+// True God: Jagged Edge, Tireless Blade, Vorpal Weapon, Heavy Guard
+dimwishlist:item=2782325302&perks=3666208348,2590710093,1546637391,2349202967#notes:True God: Jagged Edge, Tireless Blade, Vorpal Weapon, Heavy Guard [Retr0gr4d3's Curated List · Voltron fallback · 31 rolls]
+dimwishlist:item=2782325302&perks=1546637391,2349202967#notes:Crown-Splitter: Vorpal Weapon 52% / Heavy Guard 94% | True God: Jagged Edge, Tireless Blade, Vorpal Weapon, Heavy Guard [Retr0gr4d3's Curated List · Voltron fallback · 31 rolls]
+
+// Crowning Duologue (Rocket Launcher) — 4 community rolls, 2 combos
+// True God: Confined Launch, Impact Casing, Field Prep, Envious Assassin
+dimwishlist:item=3256453690&perks=1844523823,3796465595,2869569095,968510818#notes:True God: Confined Launch, Impact Casing, Field Prep, Envious Assassin [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+dimwishlist:item=3256453690&perks=2869569095,968510818#notes:Crowning Duologue: Field Prep 100% / Envious Assassin 50% | True God: Confined Launch, Impact Casing, Field Prep, Envious Assassin [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+dimwishlist:item=3256453690&perks=2869569095,1275731761#notes:Crowning Duologue: Field Prep 100% / Cluster Bomb 50% | True God: Confined Launch, Impact Casing, Field Prep, Envious Assassin [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+
 // Crowning Duologue (Rocket Launcher) — 10 community rolls, 6 combos
 // True God: Quick Launch, Impact Casing, Reconstruction, Bipod
 dimwishlist:item=4106757302&perks=3525010810,3796465595,1523832109,1439600632#notes:True God: Quick Launch, Impact Casing, Reconstruction, Bipod [Retr0gr4d3's Curated List · 10 rolls]
@@ -1529,6 +1628,14 @@ dimwishlist:item=2846261712&perks=2284787283,1089671869#notes:Crux Celeritas IV:
 dimwishlist:item=2846261712&perks=2284787283,3764420437#notes:Crux Celeritas IV: Clown Cartridge 50% / Aggregate Charge 73% | True God: Quick Launch, Impact Casing, Reconstruction, Elemental Honing [Retr0gr4d3's Curated List · 30 rolls]
 dimwishlist:item=2846261712&perks=2284787283,3194351027#notes:Crux Celeritas IV: Clown Cartridge 50% / Explosive Light 57% | True God: Quick Launch, Impact Casing, Reconstruction, Elemental Honing [Retr0gr4d3's Curated List · 30 rolls]
 
+// Cry Mutiny (Grenade Launcher) — 8 community rolls, 4 combos
+// True God: Volatile Launch, Mini Frags, Incandescent, Vorpal Weapon
+dimwishlist:item=616582330&perks=1478423395,332133599,4293542123,1546637391#notes:True God: Volatile Launch, Mini Frags, Incandescent, Vorpal Weapon [Retr0gr4d3's Curated List · Voltron fallback · 8 rolls]
+dimwishlist:item=616582330&perks=4293542123,1546637391#notes:Cry Mutiny: Incandescent 50% / Vorpal Weapon 50% | True God: Volatile Launch, Mini Frags, Incandescent, Vorpal Weapon [Retr0gr4d3's Curated List · Voltron fallback · 8 rolls]
+dimwishlist:item=616582330&perks=4293542123,4082225868#notes:Cry Mutiny: Incandescent 50% / Swashbuckler 50% | True God: Volatile Launch, Mini Frags, Incandescent, Vorpal Weapon [Retr0gr4d3's Curated List · Voltron fallback · 8 rolls]
+dimwishlist:item=616582330&perks=3523296417,1546637391#notes:Cry Mutiny: Demolitionist 50% / Vorpal Weapon 50% | True God: Volatile Launch, Mini Frags, Incandescent, Vorpal Weapon [Retr0gr4d3's Curated List · Voltron fallback · 8 rolls]
+dimwishlist:item=616582330&perks=3523296417,4082225868#notes:Cry Mutiny: Demolitionist 50% / Swashbuckler 50% | True God: Volatile Launch, Mini Frags, Incandescent, Vorpal Weapon [Retr0gr4d3's Curated List · Voltron fallback · 8 rolls]
+
 // Cry Mutiny (Grenade Launcher) — 14 community rolls, 6 combos
 // True God: Quick Launch, Spike Grenades, Incandescent, Aggregate Charge
 dimwishlist:item=768696858&perks=3525010810,3301904089,4293542123,3764420437#notes:True God: Quick Launch, Spike Grenades, Incandescent, Aggregate Charge [Retr0gr4d3's Curated List · 14 rolls]
@@ -1549,25 +1656,25 @@ dimwishlist:item=2579693381&perks=776531651,2298656195#notes:Cusp Sempiternal: R
 dimwishlist:item=2579693381&perks=1464081238,2048641572#notes:Cusp Sempiternal: Demoralize 62% / Destabilizing Rounds 100% | True God: Full Bore, Accurized Rounds, Reciprocity, Destabilizing Rounds [Retr0gr4d3's Curated List · 21 rolls]
 dimwishlist:item=2579693381&perks=1464081238,2298656195#notes:Cusp Sempiternal: Demoralize 62% / Circle of Life 71% | True God: Full Bore, Accurized Rounds, Reciprocity, Destabilizing Rounds [Retr0gr4d3's Curated List · 21 rolls]
 
-// Cynosure (Rocket Launcher) — 37 community rolls, 6 combos
+// Cynosure (Rocket Launcher) — 38 community rolls, 6 combos
 // True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch
-dimwishlist:item=2827141087&perks=3525010810,3796465595,3987942396,3078487919#notes:True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 37 rolls]
-dimwishlist:item=2827141087&perks=3987942396,3078487919#notes:Cynosure: Envious Arsenal 100% / Bait and Switch 100% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 37 rolls]
-dimwishlist:item=2827141087&perks=3987942396,3764420437#notes:Cynosure: Envious Arsenal 100% / Aggregate Charge 86% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 37 rolls]
-dimwishlist:item=2827141087&perks=3987942396,3194351027#notes:Cynosure: Envious Arsenal 100% / Explosive Light 68% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 37 rolls]
-dimwishlist:item=2827141087&perks=1523832109,3078487919#notes:Cynosure: Reconstruction 100% / Bait and Switch 100% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 37 rolls]
-dimwishlist:item=2827141087&perks=1523832109,3764420437#notes:Cynosure: Reconstruction 100% / Aggregate Charge 86% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 37 rolls]
-dimwishlist:item=2827141087&perks=1523832109,3194351027#notes:Cynosure: Reconstruction 100% / Explosive Light 68% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 37 rolls]
+dimwishlist:item=2827141087&perks=3525010810,3796465595,3987942396,3078487919#notes:True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 38 rolls]
+dimwishlist:item=2827141087&perks=3987942396,3078487919#notes:Cynosure: Envious Arsenal 100% / Bait and Switch 100% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 38 rolls]
+dimwishlist:item=2827141087&perks=3987942396,3764420437#notes:Cynosure: Envious Arsenal 100% / Aggregate Charge 87% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 38 rolls]
+dimwishlist:item=2827141087&perks=3987942396,3194351027#notes:Cynosure: Envious Arsenal 100% / Explosive Light 68% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 38 rolls]
+dimwishlist:item=2827141087&perks=1523832109,3078487919#notes:Cynosure: Reconstruction 100% / Bait and Switch 100% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 38 rolls]
+dimwishlist:item=2827141087&perks=1523832109,3764420437#notes:Cynosure: Reconstruction 100% / Aggregate Charge 87% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 38 rolls]
+dimwishlist:item=2827141087&perks=1523832109,3194351027#notes:Cynosure: Reconstruction 100% / Explosive Light 68% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 38 rolls]
 
-// Cynosure (Rocket Launcher) — 37 community rolls, 6 combos
+// Cynosure (Rocket Launcher) — 38 community rolls, 6 combos
 // True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch
-dimwishlist:item=2511482352&perks=3525010810,3796465595,3987942396,3078487919#notes:True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 37 rolls]
-dimwishlist:item=2511482352&perks=3987942396,3078487919#notes:Cynosure: Envious Arsenal 100% / Bait and Switch 100% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 37 rolls]
-dimwishlist:item=2511482352&perks=3987942396,3764420437#notes:Cynosure: Envious Arsenal 100% / Aggregate Charge 86% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 37 rolls]
-dimwishlist:item=2511482352&perks=3987942396,3194351027#notes:Cynosure: Envious Arsenal 100% / Explosive Light 68% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 37 rolls]
-dimwishlist:item=2511482352&perks=1523832109,3078487919#notes:Cynosure: Reconstruction 100% / Bait and Switch 100% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 37 rolls]
-dimwishlist:item=2511482352&perks=1523832109,3764420437#notes:Cynosure: Reconstruction 100% / Aggregate Charge 86% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 37 rolls]
-dimwishlist:item=2511482352&perks=1523832109,3194351027#notes:Cynosure: Reconstruction 100% / Explosive Light 68% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 37 rolls]
+dimwishlist:item=2511482352&perks=3525010810,3796465595,3987942396,3078487919#notes:True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 38 rolls]
+dimwishlist:item=2511482352&perks=3987942396,3078487919#notes:Cynosure: Envious Arsenal 100% / Bait and Switch 100% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 38 rolls]
+dimwishlist:item=2511482352&perks=3987942396,3764420437#notes:Cynosure: Envious Arsenal 100% / Aggregate Charge 87% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 38 rolls]
+dimwishlist:item=2511482352&perks=3987942396,3194351027#notes:Cynosure: Envious Arsenal 100% / Explosive Light 68% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 38 rolls]
+dimwishlist:item=2511482352&perks=1523832109,3078487919#notes:Cynosure: Reconstruction 100% / Bait and Switch 100% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 38 rolls]
+dimwishlist:item=2511482352&perks=1523832109,3764420437#notes:Cynosure: Reconstruction 100% / Aggregate Charge 87% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 38 rolls]
+dimwishlist:item=2511482352&perks=1523832109,3194351027#notes:Cynosure: Reconstruction 100% / Explosive Light 68% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 38 rolls]
 
 // D.F.A. (Hand Cannon) — 55 community rolls, 4 combos
 // True God: Arrowhead Brake, Accurized Rounds, Explosive Payload, Attrition Orbs
@@ -1613,6 +1720,19 @@ dimwishlist:item=2770617440&perks=2890807135,4293542123#notes:Dawn Far Off: Burn
 dimwishlist:item=2770617440&perks=2890807135,557221067#notes:Dawn Far Off: Burning Ambition 100% / Killing Tally 57% | True God: Arrowhead Brake, Appended Mag, Burning Ambition, Incandescent [Retr0gr4d3's Curated List · 28 rolls]
 dimwishlist:item=2770617440&perks=1820235745,4293542123#notes:Dawn Far Off: Subsistence 86% / Incandescent 100% | True God: Arrowhead Brake, Appended Mag, Burning Ambition, Incandescent [Retr0gr4d3's Curated List · 28 rolls]
 dimwishlist:item=2770617440&perks=1820235745,557221067#notes:Dawn Far Off: Subsistence 86% / Killing Tally 57% | True God: Arrowhead Brake, Appended Mag, Burning Ambition, Incandescent [Retr0gr4d3's Curated List · 28 rolls]
+
+// Dead Man's Tale (Scout Rifle) — 16 community rolls, 4 combos
+// True God: Fluted Barrel, Flared Magwell, Vorpal Weapon, Hand-Laid Stock
+dimwishlist:item=2188764214&perks=1840239774,3230963543,1546637391,990298390#notes:True God: Fluted Barrel, Flared Magwell, Vorpal Weapon, Hand-Laid Stock [Retr0gr4d3's Curated List · Voltron fallback · 16 rolls]
+dimwishlist:item=2188764214&perks=1546637391,990298390#notes:Dead Man's Tale: Vorpal Weapon 50% / Hand-Laid Stock 50% | True God: Fluted Barrel, Flared Magwell, Vorpal Weapon, Hand-Laid Stock [Retr0gr4d3's Curated List · Voltron fallback · 16 rolls]
+dimwishlist:item=2188764214&perks=1546637391,4259401308#notes:Dead Man's Tale: Vorpal Weapon 50% / Fitted Stock 50% | True God: Fluted Barrel, Flared Magwell, Vorpal Weapon, Hand-Laid Stock [Retr0gr4d3's Curated List · Voltron fallback · 16 rolls]
+dimwishlist:item=2188764214&perks=3700496672,990298390#notes:Dead Man's Tale: Shoot to Loot 50% / Hand-Laid Stock 50% | True God: Fluted Barrel, Flared Magwell, Vorpal Weapon, Hand-Laid Stock [Retr0gr4d3's Curated List · Voltron fallback · 16 rolls]
+dimwishlist:item=2188764214&perks=3700496672,4259401308#notes:Dead Man's Tale: Shoot to Loot 50% / Fitted Stock 50% | True God: Fluted Barrel, Flared Magwell, Vorpal Weapon, Hand-Laid Stock [Retr0gr4d3's Curated List · Voltron fallback · 16 rolls]
+
+// Dead Messenger (Grenade Launcher) — 2 community rolls, 1 combos
+// True God: Hard Launch, High-Velocity Rounds, Short-Action Stock
+dimwishlist:item=46125926&perks=981914802,2822142346,1067908860#notes:True God: Hard Launch, High-Velocity Rounds, Short-Action Stock [Retr0gr4d3's Curated List · Voltron fallback · 2 rolls]
+dimwishlist:item=46125926&perks=1067908860#notes:Dead Messenger: Short-Action Stock 100% | True God: Hard Launch, High-Velocity Rounds, Short-Action Stock [Retr0gr4d3's Curated List · Voltron fallback · 2 rolls]
 
 // DEADHORSE 04 (Submachine Gun) — 47 community rolls, 4 combos
 // True God: Smallbore, Accurized Rounds, Rimestealer, Crystalline Corpsebloom
@@ -1745,6 +1865,11 @@ dimwishlist:item=1751893422&perks=247725512,3047969693#notes:Disparity: Rapid Hi
 dimwishlist:item=1751893422&perks=691659142,124408337#notes:Disparity: Pugilist 75% / Headstone 100% | True God: Arrowhead Brake, Tactical Mag, Rapid Hit, Headstone [Retr0gr4d3's Curated List · 8 rolls]
 dimwishlist:item=1751893422&perks=691659142,3047969693#notes:Disparity: Pugilist 75% / Desperado 50% | True God: Arrowhead Brake, Tactical Mag, Rapid Hit, Headstone [Retr0gr4d3's Curated List · 8 rolls]
 
+// Distant Relation (Scout Rifle) — 2 community rolls, 1 combos
+// True God: Extended Barrel, Accurized Rounds, Outlaw, Explosive Payload
+dimwishlist:item=2034817450&perks=1467527085,3142289711,1168162263,3038247973#notes:True God: Extended Barrel, Accurized Rounds, Outlaw, Explosive Payload [Retr0gr4d3's Curated List · Voltron fallback · 2 rolls]
+dimwishlist:item=2034817450&perks=1168162263,3038247973#notes:Distant Relation: Outlaw 100% / Explosive Payload 100% | True God: Extended Barrel, Accurized Rounds, Outlaw, Explosive Payload [Retr0gr4d3's Curated List · Voltron fallback · 2 rolls]
+
 // Division (Sidearm) — 5 community rolls, 4 combos
 // True God: Fluted Barrel, Accurized Rounds, Eddy Current, Voltshot
 dimwishlist:item=2903168058&perks=1840239774,3142289711,684456054,2173046394#notes:True God: Fluted Barrel, Accurized Rounds, Eddy Current, Voltshot [Retr0gr4d3's Curated List · 5 rolls]
@@ -1760,6 +1885,14 @@ dimwishlist:item=2992463569&perks=684456054,2173046394#notes:Division: Eddy Curr
 dimwishlist:item=2992463569&perks=684456054,699525795#notes:Division: Eddy Current 100% / Eye of the Storm 60% | True God: Fluted Barrel, Accurized Rounds, Eddy Current, Voltshot [Retr0gr4d3's Curated List · 5 rolls]
 dimwishlist:item=2992463569&perks=3938834702,2173046394#notes:Division: To the Pain 80% / Voltshot 100% | True God: Fluted Barrel, Accurized Rounds, Eddy Current, Voltshot [Retr0gr4d3's Curated List · 5 rolls]
 dimwishlist:item=2992463569&perks=3938834702,699525795#notes:Division: To the Pain 80% / Eye of the Storm 60% | True God: Fluted Barrel, Accurized Rounds, Eddy Current, Voltshot [Retr0gr4d3's Curated List · 5 rolls]
+
+// Division (Adept) (Sidearm) — 5 community rolls, 4 combos
+// True God: Fluted Barrel, Accurized Rounds, Eddy Current, Voltshot
+dimwishlist:item=3734001727&perks=1840239774,3142289711,684456054,2173046394#notes:True God: Fluted Barrel, Accurized Rounds, Eddy Current, Voltshot [Retr0gr4d3's Curated List · 5 rolls]
+dimwishlist:item=3734001727&perks=684456054,2173046394#notes:Division (Adept): Eddy Current 100% / Voltshot 100% | True God: Fluted Barrel, Accurized Rounds, Eddy Current, Voltshot [Retr0gr4d3's Curated List · 5 rolls]
+dimwishlist:item=3734001727&perks=684456054,699525795#notes:Division (Adept): Eddy Current 100% / Eye of the Storm 60% | True God: Fluted Barrel, Accurized Rounds, Eddy Current, Voltshot [Retr0gr4d3's Curated List · 5 rolls]
+dimwishlist:item=3734001727&perks=3938834702,2173046394#notes:Division (Adept): To the Pain 80% / Voltshot 100% | True God: Fluted Barrel, Accurized Rounds, Eddy Current, Voltshot [Retr0gr4d3's Curated List · 5 rolls]
+dimwishlist:item=3734001727&perks=3938834702,699525795#notes:Division (Adept): To the Pain 80% / Eye of the Storm 60% | True God: Fluted Barrel, Accurized Rounds, Eddy Current, Voltshot [Retr0gr4d3's Curated List · 5 rolls]
 
 // Division (Adept) (Sidearm) — 5 community rolls, 4 combos
 // True God: Fluted Barrel, Accurized Rounds, Eddy Current, Voltshot
@@ -1821,6 +1954,11 @@ dimwishlist:item=2525261820&perks=831391274,2396489472#notes:Dragoncult Sickle: 
 dimwishlist:item=2525261820&perks=831391274,3913600130#notes:Dragoncult Sickle: Hatchling 67% / Whirlwind Blade 86% | True God: Jagged Edge, Swordmaster's Guard, Eager Edge, Chain Reaction [Retr0gr4d3's Curated List · 21 rolls]
 dimwishlist:item=2525261820&perks=831391274,243981275#notes:Dragoncult Sickle: Hatchling 67% / Attrition Orbs 57% | True God: Jagged Edge, Swordmaster's Guard, Eager Edge, Chain Reaction [Retr0gr4d3's Curated List · 21 rolls]
 
+// Drang (Sidearm) — 3 community rolls, 1 combos
+// True God: Smallbore, Rampage, Moving Target, Accurized Rounds
+dimwishlist:item=2362471600&perks=1482024992,3425386926,588594999,3142289711#notes:True God: Smallbore, Rampage, Moving Target, Accurized Rounds [Retr0gr4d3's Curated List · Voltron fallback · 3 rolls]
+dimwishlist:item=2362471600&perks=588594999,3142289711#notes:Drang: Moving Target 100% / Accurized Rounds 100% | True God: Smallbore, Rampage, Moving Target, Accurized Rounds [Retr0gr4d3's Curated List · Voltron fallback · 3 rolls]
+
 // Drang (Sidearm) — 19 community rolls, 4 combos
 // True God: Smallbore, Accurized Rounds, Heal Clip, Incandescent
 dimwishlist:item=358190158&perks=1482024992,3142289711,3017780555,4293542123#notes:True God: Smallbore, Accurized Rounds, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 19 rolls]
@@ -1828,6 +1966,16 @@ dimwishlist:item=358190158&perks=3017780555,4293542123#notes:Drang: Heal Clip 10
 dimwishlist:item=358190158&perks=3017780555,3081867624#notes:Drang: Heal Clip 100% / Master of Arms 53% | True God: Smallbore, Accurized Rounds, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 19 rolls]
 dimwishlist:item=358190158&perks=588594999,4293542123#notes:Drang: Moving Target 53% / Incandescent 100% | True God: Smallbore, Accurized Rounds, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 19 rolls]
 dimwishlist:item=358190158&perks=588594999,3081867624#notes:Drang: Moving Target 53% / Master of Arms 53% | True God: Smallbore, Accurized Rounds, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 19 rolls]
+
+// Drang (Baroque) (Sidearm) — 9 community rolls, 1 combos
+// True God: Smallbore, Ricochet Rounds, Quickdraw, Rampage
+dimwishlist:item=79075821&perks=1482024992,1885400500,706527188,3425386926#notes:True God: Smallbore, Ricochet Rounds, Quickdraw, Rampage [Retr0gr4d3's Curated List · Voltron fallback · 9 rolls]
+dimwishlist:item=79075821&perks=706527188,3425386926#notes:Drang (Baroque): Quickdraw 100% / Rampage 100% | True God: Smallbore, Ricochet Rounds, Quickdraw, Rampage [Retr0gr4d3's Curated List · Voltron fallback · 9 rolls]
+
+// Dreaded Venture (Sniper Rifle) — 1 community rolls, 1 combos
+// True God: Hammer-Forged Rifling, Accurized Rounds, Explosive Payload, Snapshot Sights
+dimwishlist:item=3100452337&perks=3250034553,3142289711,3038247973,957782887#notes:True God: Hammer-Forged Rifling, Accurized Rounds, Explosive Payload, Snapshot Sights [Retr0gr4d3's Curated List · Voltron fallback · 1 rolls]
+dimwishlist:item=3100452337&perks=3038247973,957782887#notes:Dreaded Venture: Explosive Payload 100% / Snapshot Sights 100% | True God: Hammer-Forged Rifling, Accurized Rounds, Explosive Payload, Snapshot Sights [Retr0gr4d3's Curated List · Voltron fallback · 1 rolls]
 
 // Dream Breaker (Fusion Rifle) — 31 community rolls, 9 combos
 // True God: Arrowhead Brake, Accelerated Coils, Reconstruction, Controlled Burst
@@ -1880,6 +2028,24 @@ dimwishlist:item=1942143745&perks=1631667848,2048641572#notes:Ecliptic Distaff: 
 dimwishlist:item=1942143745&perks=1966281507,3640170453#notes:Ecliptic Distaff: Replenishing Aegis 58% / Chaos Reshaped 100% | True God: Auxiliary Reserves, Swap Mag, Repulsor Brace, Chaos Reshaped [Retr0gr4d3's Curated List · 24 rolls]
 dimwishlist:item=1942143745&perks=1966281507,1782407750#notes:Ecliptic Distaff: Replenishing Aegis 58% / Close to Melee 100% | True God: Auxiliary Reserves, Swap Mag, Repulsor Brace, Chaos Reshaped [Retr0gr4d3's Curated List · 24 rolls]
 dimwishlist:item=1942143745&perks=1966281507,2048641572#notes:Ecliptic Distaff: Replenishing Aegis 58% / Destabilizing Rounds 83% | True God: Auxiliary Reserves, Swap Mag, Repulsor Brace, Chaos Reshaped [Retr0gr4d3's Curated List · 24 rolls]
+
+// Edge of Action (Glaive) — 12 community rolls, 2 combos
+// True God: Low-Impedance Windings, Swap Mag, Short-Action Stock
+dimwishlist:item=2535142413&perks=2713678205,3721627275,1067908860#notes:True God: Low-Impedance Windings, Swap Mag, Short-Action Stock [Retr0gr4d3's Curated List · Voltron fallback · 12 rolls]
+dimwishlist:item=2535142413&perks=1067908860#notes:Edge of Action: Short-Action Stock 50% | True God: Low-Impedance Windings, Swap Mag, Short-Action Stock [Retr0gr4d3's Curated List · Voltron fallback · 12 rolls]
+dimwishlist:item=2535142413&perks=3465198467#notes:Edge of Action: Composite Stock 50% | True God: Low-Impedance Windings, Swap Mag, Short-Action Stock [Retr0gr4d3's Curated List · Voltron fallback · 12 rolls]
+
+// Edge of Concurrence (Glaive) — 12 community rolls, 2 combos
+// True God: Low-Impedance Windings, Swap Mag, Short-Action Stock
+dimwishlist:item=542203595&perks=2713678205,3721627275,1067908860#notes:True God: Low-Impedance Windings, Swap Mag, Short-Action Stock [Retr0gr4d3's Curated List · Voltron fallback · 12 rolls]
+dimwishlist:item=542203595&perks=1067908860#notes:Edge of Concurrence: Short-Action Stock 50% | True God: Low-Impedance Windings, Swap Mag, Short-Action Stock [Retr0gr4d3's Curated List · Voltron fallback · 12 rolls]
+dimwishlist:item=542203595&perks=3465198467#notes:Edge of Concurrence: Composite Stock 50% | True God: Low-Impedance Windings, Swap Mag, Short-Action Stock [Retr0gr4d3's Curated List · Voltron fallback · 12 rolls]
+
+// Edge of Intent (Glaive) — 12 community rolls, 2 combos
+// True God: Low-Impedance Windings, Swap Mag, Short-Action Stock
+dimwishlist:item=14194600&perks=2713678205,3721627275,1067908860#notes:True God: Low-Impedance Windings, Swap Mag, Short-Action Stock [Retr0gr4d3's Curated List · Voltron fallback · 12 rolls]
+dimwishlist:item=14194600&perks=1067908860#notes:Edge of Intent: Short-Action Stock 50% | True God: Low-Impedance Windings, Swap Mag, Short-Action Stock [Retr0gr4d3's Curated List · Voltron fallback · 12 rolls]
+dimwishlist:item=14194600&perks=3465198467#notes:Edge of Intent: Composite Stock 50% | True God: Low-Impedance Windings, Swap Mag, Short-Action Stock [Retr0gr4d3's Curated List · Voltron fallback · 12 rolls]
 
 // Edge Transit (Grenade Launcher) — 46 community rolls, 4 combos
 // True God: Quick Launch, Spike Grenades, Envious Arsenal, Bait and Switch
@@ -1943,6 +2109,11 @@ dimwishlist:item=198068259&perks=3300816228,1683379515#notes:Empty Vessel: Auto-
 dimwishlist:item=198068259&perks=3300816228,1546637391#notes:Empty Vessel: Auto-Loading Holster 100% / Vorpal Weapon 85% | True God: Quick Launch, Disorienting Grenades, Auto-Loading Holster, Disruption Break [Retr0gr4d3's Curated List · 13 rolls]
 dimwishlist:item=198068259&perks=3096702027,1683379515#notes:Empty Vessel: Genesis 62% / Disruption Break 100% | True God: Quick Launch, Disorienting Grenades, Auto-Loading Holster, Disruption Break [Retr0gr4d3's Curated List · 13 rolls]
 dimwishlist:item=198068259&perks=3096702027,1546637391#notes:Empty Vessel: Genesis 62% / Vorpal Weapon 85% | True God: Quick Launch, Disorienting Grenades, Auto-Loading Holster, Disruption Break [Retr0gr4d3's Curated List · 13 rolls]
+
+// Epochal Integration (Hand Cannon) — 3 community rolls, 1 combos
+// True God: Smallbore, Ricochet Rounds, Keep Away, Eye of the Storm
+dimwishlist:item=1123421440&perks=1482024992,1885400500,3619207468,699525795#notes:True God: Smallbore, Ricochet Rounds, Keep Away, Eye of the Storm [Retr0gr4d3's Curated List · Voltron fallback · 3 rolls]
+dimwishlist:item=1123421440&perks=3619207468,699525795#notes:Epochal Integration: Keep Away 67% / Eye of the Storm 67% | True God: Smallbore, Ricochet Rounds, Keep Away, Eye of the Storm [Retr0gr4d3's Curated List · Voltron fallback · 3 rolls]
 
 // Epochal Integration (Hand Cannon) — 160 community rolls, 9 combos
 // True God: Hammer-Forged Rifling, Accurized Rounds, Explosive Payload, Incandescent
@@ -2032,6 +2203,11 @@ dimwishlist:item=4147428506&perks=1354429876,1134488199#notes:Eyes Unveiled: Fou
 dimwishlist:item=4147428506&perks=3643424744,1089671869#notes:Eyes Unveiled: Overflow 53% / Elemental Honing 100% | True God: Arrowhead Brake, Accelerated Coils, Fourth Time's the Charm, Elemental Honing [Retr0gr4d3's Curated List · 32 rolls]
 dimwishlist:item=4147428506&perks=3643424744,555281244#notes:Eyes Unveiled: Overflow 53% / Precision Instrument 91% | True God: Arrowhead Brake, Accelerated Coils, Fourth Time's the Charm, Elemental Honing [Retr0gr4d3's Curated List · 32 rolls]
 dimwishlist:item=4147428506&perks=3643424744,1134488199#notes:Eyes Unveiled: Overflow 53% / Withering Gaze 50% | True God: Arrowhead Brake, Accelerated Coils, Fourth Time's the Charm, Elemental Honing [Retr0gr4d3's Curated List · 32 rolls]
+
+// Fair Judgment (Auto Rifle) — 9 community rolls, 1 combos
+// True God: Corkscrew Rifling, Armor-Piercing Rounds, Rimestealer, Headstone
+dimwishlist:item=4176873718&perks=4090651448,1968497646,1955165503,124408337#notes:True God: Corkscrew Rifling, Armor-Piercing Rounds, Rimestealer, Headstone [Retr0gr4d3's Curated List · Voltron fallback · 9 rolls]
+dimwishlist:item=4176873718&perks=1955165503,124408337#notes:Fair Judgment: Rimestealer 56% / Headstone 56% | True God: Corkscrew Rifling, Armor-Piercing Rounds, Rimestealer, Headstone [Retr0gr4d3's Curated List · Voltron fallback · 9 rolls]
 
 // Fair Judgment (Auto Rifle) — 27 community rolls, 9 combos
 // True God: Arrowhead Brake, Ricochet Rounds, Rimestealer, Headstone
@@ -2133,6 +2309,11 @@ dimwishlist:item=1399109800&perks=2801223209,1649480699,201365942,3252937884#not
 dimwishlist:item=1399109800&perks=201365942,3252937884#notes:Fel Taradiddle: Archer's Tempo 100% / Adhesive Ordnance 100% | True God: Elastic String, Straight Fletching, Archer's Tempo, Adhesive Ordnance [Retr0gr4d3's Curated List · 6 rolls]
 dimwishlist:item=1399109800&perks=201365942,3365897133#notes:Fel Taradiddle: Archer's Tempo 100% / Explosive Head 83% | True God: Elastic String, Straight Fletching, Archer's Tempo, Adhesive Ordnance [Retr0gr4d3's Curated List · 6 rolls]
 
+// Felwinter's Lie (Shotgun) — 15 community rolls, 1 combos
+// True God: Full Choke, Accurized Rounds, Surplus, Opening Shot
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3436462433,47981717#notes:True God: Full Choke, Accurized Rounds, Surplus, Opening Shot [Retr0gr4d3's Curated List · Voltron fallback · 15 rolls]
+dimwishlist:item=1179141605&perks=3436462433,47981717#notes:Felwinter's Lie: Surplus 60% / Opening Shot 53% | True God: Full Choke, Accurized Rounds, Surplus, Opening Shot [Retr0gr4d3's Curated List · Voltron fallback · 15 rolls]
+
 // Felwinter's Lie (Shotgun) — 224 community rolls, 6 combos
 // True God: Rifled Barrel, Accurized Rounds, Threat Detector, Opening Shot
 dimwishlist:item=218787950&perks=1332244541,3142289711,4071163871,47981717#notes:True God: Rifled Barrel, Accurized Rounds, Threat Detector, Opening Shot [Retr0gr4d3's Curated List · 224 rolls]
@@ -2220,6 +2401,11 @@ dimwishlist:item=3241217409&perks=4293542123,3078487919#notes:Finite Maybe: Inca
 dimwishlist:item=2272041093&perks=839105230,689005463,2869569095,2978966579#notes:True God: Arrowhead Brake, Accelerated Coils, Field Prep, Chill Clip [Retr0gr4d3's Curated List · 6 rolls]
 dimwishlist:item=2272041093&perks=2869569095,2978966579#notes:Fire and Forget: Field Prep 100% / Chill Clip 100% | True God: Arrowhead Brake, Accelerated Coils, Field Prep, Chill Clip [Retr0gr4d3's Curated List · 6 rolls]
 dimwishlist:item=2272041093&perks=2869569095,1546637391#notes:Fire and Forget: Field Prep 100% / Vorpal Weapon 67% | True God: Arrowhead Brake, Accelerated Coils, Field Prep, Chill Clip [Retr0gr4d3's Curated List · 6 rolls]
+
+// Fixed Odds (Machine Gun) — 3 community rolls, 1 combos
+// True God: Arrowhead Brake, Ricochet Rounds, Feeding Frenzy, Rampage
+dimwishlist:item=1642384931&perks=839105230,1885400500,2779035018,3425386926#notes:True God: Arrowhead Brake, Ricochet Rounds, Feeding Frenzy, Rampage [Retr0gr4d3's Curated List · Voltron fallback · 3 rolls]
+dimwishlist:item=1642384931&perks=2779035018,3425386926#notes:Fixed Odds: Feeding Frenzy 100% / Rampage 100% | True God: Arrowhead Brake, Ricochet Rounds, Feeding Frenzy, Rampage [Retr0gr4d3's Curated List · Voltron fallback · 3 rolls]
 
 // Folded Root (Rocket Launcher) — 10 community rolls, 3 combos
 // True God: Volatile Launch, Alloy Casing, Cluster Bomb, Destabilizing Rounds
@@ -2350,6 +2536,12 @@ dimwishlist:item=963732595&perks=1124871858,3142289711,4071163871,47981717#notes
 dimwishlist:item=963732595&perks=4071163871,47981717#notes:Fortissimo-11: Threat Detector 100% / Opening Shot 100% | True God: Fluted Barrel, Accurized Rounds, Threat Detector, Opening Shot [Retr0gr4d3's Curated List · 12 rolls]
 dimwishlist:item=963732595&perks=1354429876,47981717#notes:Fortissimo-11: Fourth Time's the Charm 58% / Opening Shot 100% | True God: Fluted Barrel, Accurized Rounds, Threat Detector, Opening Shot [Retr0gr4d3's Curated List · 12 rolls]
 
+// Fortunate Star (Combat Bow) — 4 community rolls, 2 combos
+// True God: Elastic String, Fiberglass Arrow Shaft, Repulsor Brace, Archer's Gambit
+dimwishlist:item=2326578623&perks=2801223209,3429800428,776531651,3414324643#notes:True God: Elastic String, Fiberglass Arrow Shaft, Repulsor Brace, Archer's Gambit [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+dimwishlist:item=2326578623&perks=776531651,3414324643#notes:Fortunate Star: Repulsor Brace 50% / Archer's Gambit 50% | True God: Elastic String, Fiberglass Arrow Shaft, Repulsor Brace, Archer's Gambit [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+dimwishlist:item=2326578623&perks=1866048759,3414324643#notes:Fortunate Star: Hip-Fire Grip 50% / Archer's Gambit 50% | True God: Elastic String, Fiberglass Arrow Shaft, Repulsor Brace, Archer's Gambit [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+
 // Fortunate Star (Combat Bow) — 21 community rolls, 9 combos
 // True God: Elastic String, Compact Arrow Shaft, Dragonfly, Destabilizing Rounds
 dimwishlist:item=2631466936&perks=2801223209,16392701,2848615171,2048641572#notes:True God: Elastic String, Compact Arrow Shaft, Dragonfly, Destabilizing Rounds [Retr0gr4d3's Curated List · 21 rolls]
@@ -2446,6 +2638,17 @@ dimwishlist:item=232119851&perks=3400784728,957782887#notes:Frozen Orbit: Triple
 dimwishlist:item=232119851&perks=3400784728,47981717#notes:Frozen Orbit: Triple Tap 62% / Opening Shot 76% | True God: Fluted Barrel, Accurized Rounds, Lone Wolf, Snapshot Sights [Retr0gr4d3's Curated List · 21 rolls]
 dimwishlist:item=232119851&perks=3400784728,1546637391#notes:Frozen Orbit: Triple Tap 62% / Vorpal Weapon 67% | True God: Fluted Barrel, Accurized Rounds, Lone Wolf, Snapshot Sights [Retr0gr4d3's Curated List · 21 rolls]
 
+// Gahlran's Right Hand (Auto Rifle) — 5 community rolls, 1 combos
+// True God: Chambered Compensator, Ricochet Rounds, Zen Moment, Multikill Clip
+dimwishlist:item=1286686760&perks=3661387068,1885400500,2387244414,2458213969#notes:True God: Chambered Compensator, Ricochet Rounds, Zen Moment, Multikill Clip [Retr0gr4d3's Curated List · Voltron fallback · 5 rolls]
+dimwishlist:item=1286686760&perks=2387244414,2458213969#notes:Gahlran's Right Hand: Zen Moment 80% / Multikill Clip 80% | True God: Chambered Compensator, Ricochet Rounds, Zen Moment, Multikill Clip [Retr0gr4d3's Curated List · Voltron fallback · 5 rolls]
+
+// Gallant Charge (Fusion Rifle) — 8 community rolls, 2 combos
+// True God: Polygonal Rifling, Liquid Coils, Hip-Fire Grip, Tap the Trigger
+dimwishlist:item=1706206669&perks=1392496348,1687452232,1866048759,1890422124#notes:True God: Polygonal Rifling, Liquid Coils, Hip-Fire Grip, Tap the Trigger [Retr0gr4d3's Curated List · Voltron fallback · 8 rolls]
+dimwishlist:item=1706206669&perks=1866048759,1890422124#notes:Gallant Charge: Hip-Fire Grip 50% / Tap the Trigger 50% | True God: Polygonal Rifling, Liquid Coils, Hip-Fire Grip, Tap the Trigger [Retr0gr4d3's Curated List · Voltron fallback · 8 rolls]
+dimwishlist:item=1706206669&perks=1866048759,4082225868#notes:Gallant Charge: Hip-Fire Grip 50% / Swashbuckler 50% | True God: Polygonal Rifling, Liquid Coils, Hip-Fire Grip, Tap the Trigger [Retr0gr4d3's Curated List · Voltron fallback · 8 rolls]
+
 // Giver's Blessing (Auto Rifle) — 17 community rolls, 1 combos
 // True God: Arrowhead Brake, Tactical Mag, Rewind Rounds, Kinetic Tremors
 dimwishlist:item=970034755&perks=839105230,106909392,3418782618,3891536761#notes:True God: Arrowhead Brake, Tactical Mag, Rewind Rounds, Kinetic Tremors [Retr0gr4d3's Curated List · 17 rolls]
@@ -2470,6 +2673,11 @@ dimwishlist:item=1572604081&perks=1421772400,3078487919#notes:Gizmo Weft: Air Tr
 dimwishlist:item=1572604081&perks=1421772400,1439600632#notes:Gizmo Weft: Air Trigger 78% / Bipod 95% | True God: Quick Launch, Spike Grenades, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 40 rolls]
 dimwishlist:item=1572604081&perks=3161816588,3078487919#notes:Gizmo Weft: Slideshot 60% / Bait and Switch 100% | True God: Quick Launch, Spike Grenades, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 40 rolls]
 dimwishlist:item=1572604081&perks=3161816588,1439600632#notes:Gizmo Weft: Slideshot 60% / Bipod 95% | True God: Quick Launch, Spike Grenades, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 40 rolls]
+
+// Glacioclasm (Fusion Rifle) — 50 community rolls, 1 combos
+// True God: Hammer-Forged Rifling, Ionized Battery, Overflow, Controlled Burst
+dimwishlist:item=2728851518&perks=3250034553,1483536627,3643424744,2594592626#notes:True God: Hammer-Forged Rifling, Ionized Battery, Overflow, Controlled Burst [Retr0gr4d3's Curated List · Voltron fallback · 50 rolls]
+dimwishlist:item=2728851518&perks=3643424744,2594592626#notes:Glacioclasm: Overflow 96% / Controlled Burst 58% | True God: Hammer-Forged Rifling, Ionized Battery, Overflow, Controlled Burst [Retr0gr4d3's Curated List · Voltron fallback · 50 rolls]
 
 // Glissando-47 (Scout Rifle) — 8 community rolls, 9 combos
 // True God: Arrowhead Brake, Appended Mag, Reconstruction, Box Breathing
@@ -2503,6 +2711,11 @@ dimwishlist:item=214545213&perks=839105230,106909392,776531651,2048641572#notes:
 dimwishlist:item=214545213&perks=776531651,2048641572#notes:Gnawing Hunger: Repulsor Brace 100% / Destabilizing Rounds 100% | True God: Arrowhead Brake, Tactical Mag, Repulsor Brace, Destabilizing Rounds [Retr0gr4d3's Curated List · 65 rolls]
 dimwishlist:item=214545213&perks=776531651,3081867624#notes:Gnawing Hunger: Repulsor Brace 100% / Master of Arms 55% | True God: Arrowhead Brake, Tactical Mag, Repulsor Brace, Destabilizing Rounds [Retr0gr4d3's Curated List · 65 rolls]
 dimwishlist:item=214545213&perks=776531651,365154968#notes:Gnawing Hunger: Repulsor Brace 100% / Target Lock 52% | True God: Arrowhead Brake, Tactical Mag, Repulsor Brace, Destabilizing Rounds [Retr0gr4d3's Curated List · 65 rolls]
+
+// Goldtusk (Sword) — 30 community rolls, 1 combos
+// True God: Jagged Edge, Valiant Charge, Chain Reaction, Swordmaster's Guard
+dimwishlist:item=3371413057&perks=3666208348,4274614370,2396489472,269888150#notes:True God: Jagged Edge, Valiant Charge, Chain Reaction, Swordmaster's Guard [Retr0gr4d3's Curated List · Voltron fallback · 30 rolls]
+dimwishlist:item=3371413057&perks=2396489472,269888150#notes:Goldtusk: Chain Reaction 70% / Swordmaster's Guard 100% | True God: Jagged Edge, Valiant Charge, Chain Reaction, Swordmaster's Guard [Retr0gr4d3's Curated List · Voltron fallback · 30 rolls]
 
 // Graviton Spike (Hand Cannon) — 5 community rolls, 2 combos
 // True God: Corkscrew Rifling, Accurized Rounds, Temporal Anomaly, Smooth Grip
@@ -2545,6 +2758,11 @@ dimwishlist:item=72775246&perks=2289534249,3891536761#notes:Gunburn: Bewildering
 dimwishlist:item=72775246&perks=2289534249,365154968#notes:Gunburn: Bewildering Burst 100% / Target Lock 53% | True God: Arrowhead Brake, Accurized Rounds, Bewildering Burst, Kinetic Tremors [Retr0gr4d3's Curated List · 17 rolls]
 dimwishlist:item=72775246&perks=1570399071,3891536761#notes:Gunburn: Lead From Light 53% / Kinetic Tremors 100% | True God: Arrowhead Brake, Accurized Rounds, Bewildering Burst, Kinetic Tremors [Retr0gr4d3's Curated List · 17 rolls]
 dimwishlist:item=72775246&perks=1570399071,365154968#notes:Gunburn: Lead From Light 53% / Target Lock 53% | True God: Arrowhead Brake, Accurized Rounds, Bewildering Burst, Kinetic Tremors [Retr0gr4d3's Curated List · 17 rolls]
+
+// Gunnora's Axe (Shotgun) — 20 community rolls, 1 combos
+// True God: Full Bore, Accurized Rounds, Full Auto Trigger System, Opening Shot
+dimwishlist:item=2326716489&perks=202670084,3142289711,2117683199,47981717#notes:True God: Full Bore, Accurized Rounds, Full Auto Trigger System, Opening Shot [Retr0gr4d3's Curated List · Voltron fallback · 20 rolls]
+dimwishlist:item=2326716489&perks=2117683199,47981717#notes:Gunnora's Axe: Full Auto Trigger System 60% / Opening Shot 70% | True God: Full Bore, Accurized Rounds, Full Auto Trigger System, Opening Shot [Retr0gr4d3's Curated List · Voltron fallback · 20 rolls]
 
 // Gunnora's Axe (Shotgun) — 52 community rolls, 2 combos
 // True God: Fluted Barrel, Accurized Rounds, Lone Wolf, Opening Shot
@@ -2758,21 +2976,21 @@ dimwishlist:item=2065366342&perks=1359896290,1890422124#notes:Herod-C: Dynamic S
 dimwishlist:item=2065366342&perks=3700496672,124408337#notes:Herod-C: Shoot to Loot 60% / Headstone 100% | True God: Arrowhead Brake, Ricochet Rounds, Subsistence, Headstone [Retr0gr4d3's Curated List · 25 rolls]
 dimwishlist:item=2065366342&perks=3700496672,1890422124#notes:Herod-C: Shoot to Loot 60% / Tap the Trigger 52% | True God: Arrowhead Brake, Ricochet Rounds, Subsistence, Headstone [Retr0gr4d3's Curated List · 25 rolls]
 
-// Hezen Vengeance (Rocket Launcher) — 37 community rolls, 4 combos
+// Hezen Vengeance (Rocket Launcher) — 38 community rolls, 4 combos
 // True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch
-dimwishlist:item=2265407516&perks=3525010810,3796465595,3987942396,3078487919#notes:True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 37 rolls]
-dimwishlist:item=2265407516&perks=3987942396,3078487919#notes:Hezen Vengeance: Envious Arsenal 100% / Bait and Switch 100% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 37 rolls]
-dimwishlist:item=2265407516&perks=3987942396,3764420437#notes:Hezen Vengeance: Envious Arsenal 100% / Aggregate Charge 62% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 37 rolls]
-dimwishlist:item=2265407516&perks=3300816228,3078487919#notes:Hezen Vengeance: Auto-Loading Holster 73% / Bait and Switch 100% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 37 rolls]
-dimwishlist:item=2265407516&perks=3300816228,3764420437#notes:Hezen Vengeance: Auto-Loading Holster 73% / Aggregate Charge 62% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 37 rolls]
+dimwishlist:item=2265407516&perks=3525010810,3796465595,3987942396,3078487919#notes:True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 38 rolls]
+dimwishlist:item=2265407516&perks=3987942396,3078487919#notes:Hezen Vengeance: Envious Arsenal 100% / Bait and Switch 100% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 38 rolls]
+dimwishlist:item=2265407516&perks=3987942396,3764420437#notes:Hezen Vengeance: Envious Arsenal 100% / Aggregate Charge 63% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 38 rolls]
+dimwishlist:item=2265407516&perks=3300816228,3078487919#notes:Hezen Vengeance: Auto-Loading Holster 74% / Bait and Switch 100% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 38 rolls]
+dimwishlist:item=2265407516&perks=3300816228,3764420437#notes:Hezen Vengeance: Auto-Loading Holster 74% / Aggregate Charge 63% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 38 rolls]
 
-// Hezen Vengeance (Timelost) (Rocket Launcher) — 37 community rolls, 4 combos
+// Hezen Vengeance (Timelost) (Rocket Launcher) — 38 community rolls, 4 combos
 // True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch
-dimwishlist:item=3623686757&perks=3525010810,3796465595,3987942396,3078487919#notes:True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 37 rolls]
-dimwishlist:item=3623686757&perks=3987942396,3078487919#notes:Hezen Vengeance (Timelost): Envious Arsenal 100% / Bait and Switch 100% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 37 rolls]
-dimwishlist:item=3623686757&perks=3987942396,3764420437#notes:Hezen Vengeance (Timelost): Envious Arsenal 100% / Aggregate Charge 62% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 37 rolls]
-dimwishlist:item=3623686757&perks=3300816228,3078487919#notes:Hezen Vengeance (Timelost): Auto-Loading Holster 73% / Bait and Switch 100% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 37 rolls]
-dimwishlist:item=3623686757&perks=3300816228,3764420437#notes:Hezen Vengeance (Timelost): Auto-Loading Holster 73% / Aggregate Charge 62% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 37 rolls]
+dimwishlist:item=3623686757&perks=3525010810,3796465595,3987942396,3078487919#notes:True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 38 rolls]
+dimwishlist:item=3623686757&perks=3987942396,3078487919#notes:Hezen Vengeance (Timelost): Envious Arsenal 100% / Bait and Switch 100% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 38 rolls]
+dimwishlist:item=3623686757&perks=3987942396,3764420437#notes:Hezen Vengeance (Timelost): Envious Arsenal 100% / Aggregate Charge 63% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 38 rolls]
+dimwishlist:item=3623686757&perks=3300816228,3078487919#notes:Hezen Vengeance (Timelost): Auto-Loading Holster 74% / Bait and Switch 100% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 38 rolls]
+dimwishlist:item=3623686757&perks=3300816228,3764420437#notes:Hezen Vengeance (Timelost): Auto-Loading Holster 74% / Aggregate Charge 63% | True God: Quick Launch, Impact Casing, Envious Arsenal, Bait and Switch [Retr0gr4d3's Curated List · 38 rolls]
 
 // High Albedo (Sidearm) — 44 community rolls, 6 combos
 // True God: Quick Launch, Tactical Mag, Lead from Gold, Kinetic Tremors
@@ -2986,6 +3204,12 @@ dimwishlist:item=3951511045&perks=923806249,3640170453#notes:Imminence (Adept): 
 dimwishlist:item=3951511045&perks=923806249,365154968#notes:Imminence (Adept): Slice 55% / Target Lock 68% | True God: Hammer-Forged Rifling, Accurized Rounds, Tear, Chaos Reshaped [Retr0gr4d3's Curated List · 22 rolls]
 dimwishlist:item=3951511045&perks=923806249,831391274#notes:Imminence (Adept): Slice 55% / Hatchling 55% | True God: Hammer-Forged Rifling, Accurized Rounds, Tear, Chaos Reshaped [Retr0gr4d3's Curated List · 22 rolls]
 
+// Imperative (Scout Rifle) — 6 community rolls, 2 combos
+// True God: Polygonal Rifling, Steady Rounds, Outlaw, Rampage
+dimwishlist:item=2314999489&perks=1392496348,3177308360,1168162263,3425386926#notes:True God: Polygonal Rifling, Steady Rounds, Outlaw, Rampage [Retr0gr4d3's Curated List · Voltron fallback · 6 rolls]
+dimwishlist:item=2314999489&perks=1168162263,3425386926#notes:Imperative: Outlaw 100% / Rampage 50% | True God: Polygonal Rifling, Steady Rounds, Outlaw, Rampage [Retr0gr4d3's Curated List · Voltron fallback · 6 rolls]
+dimwishlist:item=2314999489&perks=1168162263,2458213969#notes:Imperative: Outlaw 100% / Multikill Clip 50% | True God: Polygonal Rifling, Steady Rounds, Outlaw, Rampage [Retr0gr4d3's Curated List · Voltron fallback · 6 rolls]
+
 // Imperial Decree (Shotgun) — 9 community rolls, 2 combos
 // True God: Rifled Barrel, Accurized Rounds, Threat Detector, Opening Shot
 dimwishlist:item=318443586&perks=1987021001,3267421167,494941759,1370847713#notes:True God: Rifled Barrel, Accurized Rounds, Threat Detector, Opening Shot [Retr0gr4d3's Curated List · 9 rolls]
@@ -3005,15 +3229,15 @@ dimwishlist:item=2776506837&perks=2289534249,3891536761#notes:Inbound Surveillan
 dimwishlist:item=2776506837&perks=2289534249,3038247973#notes:Inbound Surveillance: Bewildering Burst 55% / Explosive Payload 91% | True God: Arrowhead Brake, Flared Magwell, Shoot to Loot, Kinetic Tremors [Retr0gr4d3's Curated List · 22 rolls]
 dimwishlist:item=2776506837&perks=2289534249,555281244#notes:Inbound Surveillance: Bewildering Burst 55% / Precision Instrument 64% | True God: Arrowhead Brake, Flared Magwell, Shoot to Loot, Kinetic Tremors [Retr0gr4d3's Curated List · 22 rolls]
 
-// Indebted Kindness (Sidearm) — 47 community rolls, 6 combos
+// Indebted Kindness (Sidearm) — 48 community rolls, 6 combos
 // True God: Quick Launch, Tactical Mag, Air Trigger, Voltshot
-dimwishlist:item=2554513694&perks=3525010810,106909392,1421772400,2173046394#notes:True God: Quick Launch, Tactical Mag, Air Trigger, Voltshot [Retr0gr4d3's Curated List · 47 rolls]
-dimwishlist:item=2554513694&perks=1421772400,2173046394#notes:Indebted Kindness: Air Trigger 100% / Voltshot 100% | True God: Quick Launch, Tactical Mag, Air Trigger, Voltshot [Retr0gr4d3's Curated List · 47 rolls]
-dimwishlist:item=2554513694&perks=1421772400,2396489472#notes:Indebted Kindness: Air Trigger 100% / Chain Reaction 79% | True God: Quick Launch, Tactical Mag, Air Trigger, Voltshot [Retr0gr4d3's Curated List · 47 rolls]
-dimwishlist:item=2554513694&perks=1115162408,2173046394#notes:Indebted Kindness: Trickle Charge 64% / Voltshot 100% | True God: Quick Launch, Tactical Mag, Air Trigger, Voltshot [Retr0gr4d3's Curated List · 47 rolls]
-dimwishlist:item=2554513694&perks=1115162408,2396489472#notes:Indebted Kindness: Trickle Charge 64% / Chain Reaction 79% | True God: Quick Launch, Tactical Mag, Air Trigger, Voltshot [Retr0gr4d3's Curated List · 47 rolls]
-dimwishlist:item=2554513694&perks=2859149211,2173046394#notes:Indebted Kindness: Beacon Rounds 57% / Voltshot 100% | True God: Quick Launch, Tactical Mag, Air Trigger, Voltshot [Retr0gr4d3's Curated List · 47 rolls]
-dimwishlist:item=2554513694&perks=2859149211,2396489472#notes:Indebted Kindness: Beacon Rounds 57% / Chain Reaction 79% | True God: Quick Launch, Tactical Mag, Air Trigger, Voltshot [Retr0gr4d3's Curated List · 47 rolls]
+dimwishlist:item=2554513694&perks=3525010810,106909392,1421772400,2173046394#notes:True God: Quick Launch, Tactical Mag, Air Trigger, Voltshot [Retr0gr4d3's Curated List · 48 rolls]
+dimwishlist:item=2554513694&perks=1421772400,2173046394#notes:Indebted Kindness: Air Trigger 100% / Voltshot 100% | True God: Quick Launch, Tactical Mag, Air Trigger, Voltshot [Retr0gr4d3's Curated List · 48 rolls]
+dimwishlist:item=2554513694&perks=1421772400,2396489472#notes:Indebted Kindness: Air Trigger 100% / Chain Reaction 77% | True God: Quick Launch, Tactical Mag, Air Trigger, Voltshot [Retr0gr4d3's Curated List · 48 rolls]
+dimwishlist:item=2554513694&perks=1115162408,2173046394#notes:Indebted Kindness: Trickle Charge 65% / Voltshot 100% | True God: Quick Launch, Tactical Mag, Air Trigger, Voltshot [Retr0gr4d3's Curated List · 48 rolls]
+dimwishlist:item=2554513694&perks=1115162408,2396489472#notes:Indebted Kindness: Trickle Charge 65% / Chain Reaction 77% | True God: Quick Launch, Tactical Mag, Air Trigger, Voltshot [Retr0gr4d3's Curated List · 48 rolls]
+dimwishlist:item=2554513694&perks=2859149211,2173046394#notes:Indebted Kindness: Beacon Rounds 56% / Voltshot 100% | True God: Quick Launch, Tactical Mag, Air Trigger, Voltshot [Retr0gr4d3's Curated List · 48 rolls]
+dimwishlist:item=2554513694&perks=2859149211,2396489472#notes:Indebted Kindness: Beacon Rounds 56% / Chain Reaction 77% | True God: Quick Launch, Tactical Mag, Air Trigger, Voltshot [Retr0gr4d3's Curated List · 48 rolls]
 
 // Infinite Paths 8 (Pulse Rifle) — 22 community rolls, 9 combos
 // True God: Arrowhead Brake, Accurized Rounds, Dragonfly, Voltshot
@@ -3272,25 +3496,25 @@ dimwishlist:item=981450701&perks=1354429876,3966416502#notes:Keraunios: Fourth T
 dimwishlist:item=981450701&perks=1354429876,4198902903#notes:Keraunios: Fourth Time's the Charm 53% / Detonator Beam 87% | True God: Fluted Barrel, Enhanced Battery, Shoot to Loot, Jolting Feedback [Retr0gr4d3's Curated List · 38 rolls]
 dimwishlist:item=981450701&perks=1354429876,2396489472#notes:Keraunios: Fourth Time's the Charm 53% / Chain Reaction 84% | True God: Fluted Barrel, Enhanced Battery, Shoot to Loot, Jolting Feedback [Retr0gr4d3's Curated List · 38 rolls]
 
-// Kindled Orchid (Hand Cannon) — 232 community rolls, 6 combos
+// Kindled Orchid (Hand Cannon) — 234 community rolls, 6 combos
 // True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds
-dimwishlist:item=3961462214&perks=1482024992,3142289711,1015611457,2048641572#notes:True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 232 rolls]
-dimwishlist:item=3961462214&perks=1015611457,2048641572#notes:Kindled Orchid: Kill Clip 100% / Destabilizing Rounds 91% | True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 232 rolls]
-dimwishlist:item=3961462214&perks=1015611457,2720533289#notes:Kindled Orchid: Kill Clip 100% / Magnificent Howl 81% | True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 232 rolls]
-dimwishlist:item=3961462214&perks=1015611457,3038247973#notes:Kindled Orchid: Kill Clip 100% / Explosive Payload 57% | True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 232 rolls]
-dimwishlist:item=3961462214&perks=776531651,2048641572#notes:Kindled Orchid: Repulsor Brace 81% / Destabilizing Rounds 91% | True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 232 rolls]
-dimwishlist:item=3961462214&perks=776531651,2720533289#notes:Kindled Orchid: Repulsor Brace 81% / Magnificent Howl 81% | True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 232 rolls]
-dimwishlist:item=3961462214&perks=776531651,3038247973#notes:Kindled Orchid: Repulsor Brace 81% / Explosive Payload 57% | True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 232 rolls]
+dimwishlist:item=3961462214&perks=1482024992,3142289711,1015611457,2048641572#notes:True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 234 rolls]
+dimwishlist:item=3961462214&perks=1015611457,2048641572#notes:Kindled Orchid: Kill Clip 100% / Destabilizing Rounds 91% | True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 234 rolls]
+dimwishlist:item=3961462214&perks=1015611457,2720533289#notes:Kindled Orchid: Kill Clip 100% / Magnificent Howl 81% | True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 234 rolls]
+dimwishlist:item=3961462214&perks=1015611457,3038247973#notes:Kindled Orchid: Kill Clip 100% / Explosive Payload 56% | True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 234 rolls]
+dimwishlist:item=3961462214&perks=776531651,2048641572#notes:Kindled Orchid: Repulsor Brace 80% / Destabilizing Rounds 91% | True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 234 rolls]
+dimwishlist:item=3961462214&perks=776531651,2720533289#notes:Kindled Orchid: Repulsor Brace 80% / Magnificent Howl 81% | True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 234 rolls]
+dimwishlist:item=3961462214&perks=776531651,3038247973#notes:Kindled Orchid: Repulsor Brace 80% / Explosive Payload 56% | True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 234 rolls]
 
-// Kindled Orchid (Hand Cannon) — 232 community rolls, 6 combos
+// Kindled Orchid (Hand Cannon) — 234 community rolls, 6 combos
 // True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds
-dimwishlist:item=334964261&perks=1482024992,3142289711,1015611457,2048641572#notes:True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 232 rolls]
-dimwishlist:item=334964261&perks=1015611457,2048641572#notes:Kindled Orchid: Kill Clip 100% / Destabilizing Rounds 91% | True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 232 rolls]
-dimwishlist:item=334964261&perks=1015611457,2720533289#notes:Kindled Orchid: Kill Clip 100% / Magnificent Howl 81% | True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 232 rolls]
-dimwishlist:item=334964261&perks=1015611457,3038247973#notes:Kindled Orchid: Kill Clip 100% / Explosive Payload 57% | True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 232 rolls]
-dimwishlist:item=334964261&perks=776531651,2048641572#notes:Kindled Orchid: Repulsor Brace 81% / Destabilizing Rounds 91% | True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 232 rolls]
-dimwishlist:item=334964261&perks=776531651,2720533289#notes:Kindled Orchid: Repulsor Brace 81% / Magnificent Howl 81% | True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 232 rolls]
-dimwishlist:item=334964261&perks=776531651,3038247973#notes:Kindled Orchid: Repulsor Brace 81% / Explosive Payload 57% | True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 232 rolls]
+dimwishlist:item=334964261&perks=1482024992,3142289711,1015611457,2048641572#notes:True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 234 rolls]
+dimwishlist:item=334964261&perks=1015611457,2048641572#notes:Kindled Orchid: Kill Clip 100% / Destabilizing Rounds 91% | True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 234 rolls]
+dimwishlist:item=334964261&perks=1015611457,2720533289#notes:Kindled Orchid: Kill Clip 100% / Magnificent Howl 81% | True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 234 rolls]
+dimwishlist:item=334964261&perks=1015611457,3038247973#notes:Kindled Orchid: Kill Clip 100% / Explosive Payload 56% | True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 234 rolls]
+dimwishlist:item=334964261&perks=776531651,2048641572#notes:Kindled Orchid: Repulsor Brace 80% / Destabilizing Rounds 91% | True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 234 rolls]
+dimwishlist:item=334964261&perks=776531651,2720533289#notes:Kindled Orchid: Repulsor Brace 80% / Magnificent Howl 81% | True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 234 rolls]
+dimwishlist:item=334964261&perks=776531651,3038247973#notes:Kindled Orchid: Repulsor Brace 80% / Explosive Payload 56% | True God: Smallbore, Accurized Rounds, Kill Clip, Destabilizing Rounds [Retr0gr4d3's Curated List · 234 rolls]
 
 // King Orfeo (Combat Bow) — 13 community rolls, 2 combos
 // True God: Agile Bowstring, Carbon Arrow Shaft, Explosive Head, Dragonfly
@@ -3418,6 +3642,11 @@ dimwishlist:item=3364253967&perks=2717805783,2387244414#notes:Last Perdition: Mo
 dimwishlist:item=3364253967&perks=2717805783,3425386926#notes:Last Perdition: Moving Target 60% / Rampage 90% | True God: Arrowhead Brake, Accurized Rounds, Rangefinder, Zen Moment [Retr0gr4d3's Curated List · 10 rolls]
 dimwishlist:item=3364253967&perks=2717805783,1015611457#notes:Last Perdition: Moving Target 60% / Kill Clip 70% | True God: Arrowhead Brake, Accurized Rounds, Rangefinder, Zen Moment [Retr0gr4d3's Curated List · 10 rolls]
 
+// Last Rite (Scout Rifle) — 5 community rolls, 1 combos
+// True God: Full Bore, Ricochet Rounds, Reconstruction, Opening Shot
+dimwishlist:item=542573208&perks=202670084,1885400500,1523832109,47981717#notes:True God: Full Bore, Ricochet Rounds, Reconstruction, Opening Shot [Retr0gr4d3's Curated List · Voltron fallback · 5 rolls]
+dimwishlist:item=542573208&perks=1523832109,47981717#notes:Last Rite: Reconstruction 60% / Opening Shot 80% | True God: Full Bore, Ricochet Rounds, Reconstruction, Opening Shot [Retr0gr4d3's Curated List · Voltron fallback · 5 rolls]
+
 // Last Rite (Scout Rifle) — 34 community rolls, 9 combos
 // True God: Arrowhead Brake, Steady Rounds, Hip-Fire Grip, Explosive Payload
 dimwishlist:item=3708636616&perks=839105230,3177308360,1866048759,3038247973#notes:True God: Arrowhead Brake, Steady Rounds, Hip-Fire Grip, Explosive Payload [Retr0gr4d3's Curated List · 34 rolls]
@@ -3466,6 +3695,11 @@ dimwishlist:item=355893876&perks=2922950962,4104185692#notes:Liminal Vigil: Crys
 dimwishlist:item=355893876&perks=124408337,1955165503#notes:Liminal Vigil: Headstone 79% / Rimestealer 100% | True God: Fluted Barrel, Ricochet Rounds, Crystalline Corpsebloom, Rimestealer [Retr0gr4d3's Curated List · 29 rolls]
 dimwishlist:item=355893876&perks=124408337,3047969693#notes:Liminal Vigil: Headstone 79% / Desperado 83% | True God: Fluted Barrel, Ricochet Rounds, Crystalline Corpsebloom, Rimestealer [Retr0gr4d3's Curated List · 29 rolls]
 dimwishlist:item=355893876&perks=124408337,4104185692#notes:Liminal Vigil: Headstone 79% / Frenzy 52% | True God: Fluted Barrel, Ricochet Rounds, Crystalline Corpsebloom, Rimestealer [Retr0gr4d3's Curated List · 29 rolls]
+
+// Line in the Sand (Linear Fusion Rifle) — 18 community rolls, 1 combos
+// True God: Fluted Barrel, Accelerated Coils, Moving Target, Backup Plan
+dimwishlist:item=946443267&perks=1840239774,689005463,588594999,1600092898#notes:True God: Fluted Barrel, Accelerated Coils, Moving Target, Backup Plan [Retr0gr4d3's Curated List · Voltron fallback · 18 rolls]
+dimwishlist:item=946443267&perks=588594999,1600092898#notes:Line in the Sand: Moving Target 67% / Backup Plan 67% | True God: Fluted Barrel, Accelerated Coils, Moving Target, Backup Plan [Retr0gr4d3's Curated List · Voltron fallback · 18 rolls]
 
 // Line in the Sand (Linear Fusion Rifle) — 5 community rolls, 1 combos
 // True God: Arrowhead Brake, Accelerated Coils, Clown Cartridge, Bait and Switch
@@ -3531,6 +3765,11 @@ dimwishlist:item=3156551031&perks=1955165503,124408337#notes:Live Fire: Rimestea
 dimwishlist:item=3156551031&perks=1955165503,3425386926#notes:Live Fire: Rimestealer 100% / Rampage 56% | True God: Arrowhead Brake, Appended Mag, Rapid Hit, Headstone [Retr0gr4d3's Curated List · 9 rolls]
 dimwishlist:item=3156551031&perks=1820235745,124408337#notes:Live Fire: Subsistence 56% / Headstone 100% | True God: Arrowhead Brake, Appended Mag, Rapid Hit, Headstone [Retr0gr4d3's Curated List · 9 rolls]
 dimwishlist:item=3156551031&perks=1820235745,3425386926#notes:Live Fire: Subsistence 56% / Rampage 56% | True God: Arrowhead Brake, Appended Mag, Rapid Hit, Headstone [Retr0gr4d3's Curated List · 9 rolls]
+
+// Loaded Question (Fusion Rifle) — 1 community rolls, 1 combos
+// True God: Red Dot 2 MOA, Ionized Battery, Auto-Loading Holster, Reservoir Burst
+dimwishlist:item=580961571&perks=2405638015,1483536627,3300816228,1427256713#notes:True God: Red Dot 2 MOA, Ionized Battery, Auto-Loading Holster, Reservoir Burst [Retr0gr4d3's Curated List · Voltron fallback · 1 rolls]
+dimwishlist:item=580961571&perks=3300816228,1427256713#notes:Loaded Question: Auto-Loading Holster 100% / Reservoir Burst 100% | True God: Red Dot 2 MOA, Ionized Battery, Auto-Loading Holster, Reservoir Burst [Retr0gr4d3's Curated List · Voltron fallback · 1 rolls]
 
 // Loaded Question (Fusion Rifle) — 10 community rolls, 6 combos
 // True God: Arrowhead Brake, Accelerated Coils, Overflow, Controlled Burst
@@ -3729,6 +3968,11 @@ dimwishlist:item=2901221332&perks=1645158859,654512643#notes:Main Ingredient: Un
 dimwishlist:item=2901221332&perks=1115162408,1890422124#notes:Main Ingredient: Trickle Charge 72% / Tap the Trigger 96% | True God: Arrowhead Brake, Projection Fuse, Under Pressure, Tap the Trigger [Retr0gr4d3's Curated List · 25 rolls]
 dimwishlist:item=2901221332&perks=1115162408,654512643#notes:Main Ingredient: Trickle Charge 72% / Gear Shift 56% | True God: Arrowhead Brake, Projection Fuse, Under Pressure, Tap the Trigger [Retr0gr4d3's Curated List · 25 rolls]
 
+// Malediction (Hand Cannon) — 6 community rolls, 1 combos
+// True God: Fluted Barrel, Flared Magwell, Enlightened Action, Explosive Payload
+dimwishlist:item=3337727085&perks=1840239774,3230963543,3828510309,3038247973#notes:True God: Fluted Barrel, Flared Magwell, Enlightened Action, Explosive Payload [Retr0gr4d3's Curated List · Voltron fallback · 6 rolls]
+dimwishlist:item=3337727085&perks=3828510309,3038247973#notes:Malediction: Enlightened Action 67% / Explosive Payload 67% | True God: Fluted Barrel, Flared Magwell, Enlightened Action, Explosive Payload [Retr0gr4d3's Curated List · Voltron fallback · 6 rolls]
+
 // Malediction (Hand Cannon) — 26 community rolls, 6 combos
 // True God: Fluted Barrel, Accurized Rounds, Keep Away, Tap the Trigger
 dimwishlist:item=979721268&perks=1840239774,3142289711,3619207468,1890422124#notes:True God: Fluted Barrel, Accurized Rounds, Keep Away, Tap the Trigger [Retr0gr4d3's Curated List · 26 rolls]
@@ -3738,6 +3982,12 @@ dimwishlist:item=979721268&perks=3619207468,1015611457#notes:Malediction: Keep A
 dimwishlist:item=979721268&perks=3700496672,1890422124#notes:Malediction: Shoot to Loot 50% / Tap the Trigger 96% | True God: Fluted Barrel, Accurized Rounds, Keep Away, Tap the Trigger [Retr0gr4d3's Curated List · 26 rolls]
 dimwishlist:item=979721268&perks=3700496672,3038247973#notes:Malediction: Shoot to Loot 50% / Explosive Payload 77% | True God: Fluted Barrel, Accurized Rounds, Keep Away, Tap the Trigger [Retr0gr4d3's Curated List · 26 rolls]
 dimwishlist:item=979721268&perks=3700496672,1015611457#notes:Malediction: Shoot to Loot 50% / Kill Clip 58% | True God: Fluted Barrel, Accurized Rounds, Keep Away, Tap the Trigger [Retr0gr4d3's Curated List · 26 rolls]
+
+// Martyr's Retribution (Grenade Launcher) — 6 community rolls, 2 combos
+// True God: Quick Launch, High-Velocity Rounds, Auto-Loading Holster, Rangefinder
+dimwishlist:item=3850168899&perks=3525010810,2822142346,3300816228,2846385770#notes:True God: Quick Launch, High-Velocity Rounds, Auto-Loading Holster, Rangefinder [Retr0gr4d3's Curated List · Voltron fallback · 6 rolls]
+dimwishlist:item=3850168899&perks=3300816228,2846385770#notes:Martyr's Retribution: Auto-Loading Holster 50% / Rangefinder 100% | True God: Quick Launch, High-Velocity Rounds, Auto-Loading Holster, Rangefinder [Retr0gr4d3's Curated List · Voltron fallback · 6 rolls]
+dimwishlist:item=3850168899&perks=2869569095,2846385770#notes:Martyr's Retribution: Field Prep 50% / Rangefinder 100% | True God: Quick Launch, High-Velocity Rounds, Auto-Loading Holster, Rangefinder [Retr0gr4d3's Curated List · Voltron fallback · 6 rolls]
 
 // Martyr's Retribution (Grenade Launcher) — 7 community rolls, 1 combos
 // True God: Quick Launch, High-Velocity Rounds, Heal Clip, Incandescent
@@ -3749,6 +3999,11 @@ dimwishlist:item=2584830733&perks=3017780555,4293542123#notes:Martyr's Retributi
 dimwishlist:item=1518956169&perks=1300023272,3142289711,4071163871,47981717#notes:True God: Barrel Shroud, Accurized Rounds, Threat Detector, Opening Shot [Retr0gr4d3's Curated List · 114 rolls]
 dimwishlist:item=1518956169&perks=4071163871,47981717#notes:Matador 64: Threat Detector 100% / Opening Shot 100% | True God: Barrel Shroud, Accurized Rounds, Threat Detector, Opening Shot [Retr0gr4d3's Curated List · 114 rolls]
 dimwishlist:item=1518956169&perks=4071163871,1194056669#notes:Matador 64: Threat Detector 100% / Closing Time 66% | True God: Barrel Shroud, Accurized Rounds, Threat Detector, Opening Shot [Retr0gr4d3's Curated List · 114 rolls]
+
+// Mechabre (Sniper Rifle) — 12 community rolls, 1 combos
+// True God: Fluted Barrel, Tactical Mag, Keep Away, Voltshot
+dimwishlist:item=3871226707&perks=1840239774,106909392,3619207468,2173046394#notes:True God: Fluted Barrel, Tactical Mag, Keep Away, Voltshot [Retr0gr4d3's Curated List · Voltron fallback · 12 rolls]
+dimwishlist:item=3871226707&perks=3619207468,2173046394#notes:Mechabre: Keep Away 58% / Voltshot 50% | True God: Fluted Barrel, Tactical Mag, Keep Away, Voltshot [Retr0gr4d3's Curated List · Voltron fallback · 12 rolls]
 
 // Mechabre (Sniper Rifle) — 15 community rolls, 4 combos
 // True God: Fluted Barrel, Accurized Rounds, Lone Wolf, Closing Time
@@ -3824,6 +4079,11 @@ dimwishlist:item=602331465&perks=3987942396,1439600632#notes:Micromort: Envious 
 dimwishlist:item=2699423382&perks=1300023272,3142289711,4071163871,47981717#notes:True God: Barrel Shroud, Accurized Rounds, Threat Detector, Opening Shot [Retr0gr4d3's Curated List · 28 rolls]
 dimwishlist:item=2699423382&perks=4071163871,47981717#notes:MIDA Macro-Tool: Threat Detector 100% / Opening Shot 100% | True God: Barrel Shroud, Accurized Rounds, Threat Detector, Opening Shot [Retr0gr4d3's Curated List · 28 rolls]
 dimwishlist:item=2699423382&perks=4071163871,1194056669#notes:MIDA Macro-Tool: Threat Detector 100% / Closing Time 71% | True God: Barrel Shroud, Accurized Rounds, Threat Detector, Opening Shot [Retr0gr4d3's Curated List · 28 rolls]
+
+// MIDA Mini-Tool (Submachine Gun) — 3 community rolls, 1 combos
+// True God: Fluted Barrel, Alloy Magazine, Hip-Fire Grip, Kill Clip
+dimwishlist:item=3089417788&perks=1840239774,1431678320,1866048759,1015611457#notes:True God: Fluted Barrel, Alloy Magazine, Hip-Fire Grip, Kill Clip [Retr0gr4d3's Curated List · Voltron fallback · 3 rolls]
+dimwishlist:item=3089417788&perks=1866048759,1015611457#notes:MIDA Mini-Tool: Hip-Fire Grip 100% / Kill Clip 100% | True God: Fluted Barrel, Alloy Magazine, Hip-Fire Grip, Kill Clip [Retr0gr4d3's Curated List · Voltron fallback · 3 rolls]
 
 // MIDA Mini-Tool (Submachine Gun) — 19 community rolls, 6 combos
 // True God: Fluted Barrel, Ricochet Rounds, Heal Clip, Incandescent
@@ -4052,6 +4312,11 @@ dimwishlist:item=3470514298&perks=2387244414,3891536761#notes:Nameless Midnight:
 dimwishlist:item=3470514298&perks=2387244414,3038247973#notes:Nameless Midnight: Zen Moment 53% / Explosive Payload 87% | True God: Arrowhead Brake, Tactical Mag, Shoot to Loot, Kinetic Tremors [Retr0gr4d3's Curated List · 15 rolls]
 dimwishlist:item=3470514298&perks=2387244414,460017080#notes:Nameless Midnight: Zen Moment 53% / Headseeker 60% | True God: Arrowhead Brake, Tactical Mag, Shoot to Loot, Kinetic Tremors [Retr0gr4d3's Curated List · 15 rolls]
 
+// Nasreddin (Sword) — 17 community rolls, 1 combos
+// True God: Jagged Edge, Swordmaster's Guard, Relentless Strikes, Valiant Charge
+dimwishlist:item=1456017061&perks=3666208348,269888150,1749209109,4274614370#notes:True God: Jagged Edge, Swordmaster's Guard, Relentless Strikes, Valiant Charge [Retr0gr4d3's Curated List · Voltron fallback · 17 rolls]
+dimwishlist:item=1456017061&perks=1749209109,4274614370#notes:Nasreddin: Relentless Strikes 65% / Valiant Charge 53% | True God: Jagged Edge, Swordmaster's Guard, Relentless Strikes, Valiant Charge [Retr0gr4d3's Curated List · Voltron fallback · 17 rolls]
+
 // Nasreddin (Sword) — 17 community rolls, 9 combos
 // True God: Jagged Edge, Swordmaster's Guard, Relentless Strikes, Eager Edge
 dimwishlist:item=1270948323&perks=3666208348,269888150,1749209109,2077819806#notes:True God: Jagged Edge, Swordmaster's Guard, Relentless Strikes, Eager Edge [Retr0gr4d3's Curated List · 17 rolls]
@@ -4115,6 +4380,11 @@ dimwishlist:item=522366885&perks=1523832109,2048641572#notes:Nessa's Oblation (A
 dimwishlist:item=522366885&perks=1523832109,657025441#notes:Nessa's Oblation (Adept): Reconstruction 67% / Meganeura 67% | True God: Full Bore, Assault Mag, Repulsor Brace, Destabilizing Rounds [Retr0gr4d3's Curated List · 9 rolls]
 dimwishlist:item=522366885&perks=2848615171,2048641572#notes:Nessa's Oblation (Adept): Dragonfly 67% / Destabilizing Rounds 78% | True God: Full Bore, Assault Mag, Repulsor Brace, Destabilizing Rounds [Retr0gr4d3's Curated List · 9 rolls]
 dimwishlist:item=522366885&perks=2848615171,657025441#notes:Nessa's Oblation (Adept): Dragonfly 67% / Meganeura 67% | True God: Full Bore, Assault Mag, Repulsor Brace, Destabilizing Rounds [Retr0gr4d3's Curated List · 9 rolls]
+
+// New Land Beyond (Sniper Rifle) — 1 community rolls, 1 combos
+// True God: Horizon Ironsights, Accurized Rounds, Bullseye Bolster, Snapshot Sights
+dimwishlist:item=2581676735&perks=935202422,3142289711,1579100415,957782887#notes:True God: Horizon Ironsights, Accurized Rounds, Bullseye Bolster, Snapshot Sights [Retr0gr4d3's Curated List · Voltron fallback · 1 rolls]
+dimwishlist:item=2581676735&perks=1579100415,957782887#notes:New Land Beyond: Bullseye Bolster 100% / Snapshot Sights 100% | True God: Horizon Ironsights, Accurized Rounds, Bullseye Bolster, Snapshot Sights [Retr0gr4d3's Curated List · Voltron fallback · 1 rolls]
 
 // New Pacific Epitaph (Grenade Launcher) — 31 community rolls, 6 combos
 // True God: Volatile Launch, High-Velocity Rounds, Chain Reaction, Crystalline Corpsebloom
@@ -4289,6 +4559,12 @@ dimwishlist:item=74733286&perks=4190679284,2922950962#notes:Nox Sidereal IV: Pro
 dimwishlist:item=74733286&perks=4190679284,4104185692#notes:Nox Sidereal IV: Proximity Power 50% / Frenzy 90% | True God: Arrowhead Brake, Accelerated Coils, Clown Cartridge, Crystalline Corpsebloom [Retr0gr4d3's Curated List · 10 rolls]
 dimwishlist:item=74733286&perks=4190679284,1427256713#notes:Nox Sidereal IV: Proximity Power 50% / Reservoir Burst 90% | True God: Arrowhead Brake, Accelerated Coils, Clown Cartridge, Crystalline Corpsebloom [Retr0gr4d3's Curated List · 10 rolls]
 
+// Null Composure (Fusion Rifle) — 32 community rolls, 2 combos
+// True God: Fluted Barrel, Projection Fuse, Heating Up, Reservoir Burst
+dimwishlist:item=1644680957&perks=1840239774,2969185026,1570042021,1427256713#notes:True God: Fluted Barrel, Projection Fuse, Heating Up, Reservoir Burst [Retr0gr4d3's Curated List · Voltron fallback · 32 rolls]
+dimwishlist:item=1644680957&perks=1570042021,1427256713#notes:Null Composure: Heating Up 53% / Reservoir Burst 50% | True God: Fluted Barrel, Projection Fuse, Heating Up, Reservoir Burst [Retr0gr4d3's Curated List · Voltron fallback · 32 rolls]
+dimwishlist:item=1644680957&perks=1570042021,2213355989#notes:Null Composure: Heating Up 53% / High-Impact Reserves 50% | True God: Fluted Barrel, Projection Fuse, Heating Up, Reservoir Burst [Retr0gr4d3's Curated List · Voltron fallback · 32 rolls]
+
 // Null Composure (Fusion Rifle) — 45 community rolls, 9 combos
 // True God: Arrowhead Brake, Accelerated Coils, Overflow, Controlled Burst
 dimwishlist:item=2150643740&perks=839105230,689005463,3643424744,2594592626#notes:True God: Arrowhead Brake, Accelerated Coils, Overflow, Controlled Burst [Retr0gr4d3's Curated List · 45 rolls]
@@ -4373,6 +4649,11 @@ dimwishlist:item=324584912&perks=3523296417,2848615171#notes:Ogma PR6: Demolitio
 dimwishlist:item=324584912&perks=3523296417,4049631843#notes:Ogma PR6: Demolitionist 86% / One for All 100% | True God: Arrowhead Brake, Tactical Mag, Adaptive Munitions, Dragonfly [Retr0gr4d3's Curated List · 7 rolls]
 dimwishlist:item=324584912&perks=3523296417,2216471363#notes:Ogma PR6: Demolitionist 86% / Disruption Break 100% | True God: Arrowhead Brake, Tactical Mag, Adaptive Munitions, Dragonfly [Retr0gr4d3's Curated List · 7 rolls]
 
+// Omniscient Eye (Sniper Rifle) — 50 community rolls, 1 combos
+// True God: Fluted Barrel, Tactical Mag, Outlaw, Snapshot Sights
+dimwishlist:item=3454326177&perks=1840239774,106909392,1168162263,957782887#notes:True God: Fluted Barrel, Tactical Mag, Outlaw, Snapshot Sights [Retr0gr4d3's Curated List · Voltron fallback · 50 rolls]
+dimwishlist:item=3454326177&perks=1168162263,957782887#notes:Omniscient Eye: Outlaw 54% / Snapshot Sights 56% | True God: Fluted Barrel, Tactical Mag, Outlaw, Snapshot Sights [Retr0gr4d3's Curated List · Voltron fallback · 50 rolls]
+
 // Omniscient Eye (Sniper Rifle) — 16 community rolls, 4 combos
 // True God: Fluted Barrel, Tactical Mag, Fourth Time's the Charm, Elemental Honing
 dimwishlist:item=147444292&perks=1840239774,106909392,1354429876,1089671869#notes:True God: Fluted Barrel, Tactical Mag, Fourth Time's the Charm, Elemental Honing [Retr0gr4d3's Curated List · 16 rolls]
@@ -4400,6 +4681,12 @@ dimwishlist:item=1553681400&perks=951095735,1546637391#notes:Opaque Hourglass: I
 dimwishlist:item=1553681400&perks=3350417888,1089671869#notes:Opaque Hourglass: Sympathetic Arsenal 53% / Elemental Honing 94% | True God: Ultralight Rail, Charged Bolts, Impulse Amplifier, Elemental Honing [Retr0gr4d3's Curated List · 17 rolls]
 dimwishlist:item=1553681400&perks=3350417888,1771339417#notes:Opaque Hourglass: Sympathetic Arsenal 53% / Firing Line 65% | True God: Ultralight Rail, Charged Bolts, Impulse Amplifier, Elemental Honing [Retr0gr4d3's Curated List · 17 rolls]
 dimwishlist:item=1553681400&perks=3350417888,1546637391#notes:Opaque Hourglass: Sympathetic Arsenal 53% / Vorpal Weapon 53% | True God: Ultralight Rail, Charged Bolts, Impulse Amplifier, Elemental Honing [Retr0gr4d3's Curated List · 17 rolls]
+
+// Optative (Hand Cannon) — 4 community rolls, 2 combos
+// True God: Hammer-Forged Rifling, Accurized Rounds, Rapid Hit, Kill Clip
+dimwishlist:item=2138599001&perks=3250034553,3142289711,247725512,1015611457#notes:True God: Hammer-Forged Rifling, Accurized Rounds, Rapid Hit, Kill Clip [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+dimwishlist:item=2138599001&perks=247725512,1015611457#notes:Optative: Rapid Hit 50% / Kill Clip 100% | True God: Hammer-Forged Rifling, Accurized Rounds, Rapid Hit, Kill Clip [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+dimwishlist:item=2138599001&perks=1168162263,1015611457#notes:Optative: Outlaw 50% / Kill Clip 100% | True God: Hammer-Forged Rifling, Accurized Rounds, Rapid Hit, Kill Clip [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
 
 // Origin Story (Auto Rifle) — 13 community rolls, 4 combos
 // True God: Arrowhead Brake, Ricochet Rounds, Attrition Orbs, Kinetic Tremors
@@ -4452,6 +4739,11 @@ dimwishlist:item=2579239008&perks=2173046394,3966416502#notes:Out of Bounds: Vol
 // True God: Hammer-Forged Rifling, Ricochet Rounds, Voltshot, Jolting Feedback
 dimwishlist:item=3021407779&perks=3250034553,1885400500,2173046394,3966416502#notes:True God: Hammer-Forged Rifling, Ricochet Rounds, Voltshot, Jolting Feedback [Retr0gr4d3's Curated List · 52 rolls]
 dimwishlist:item=3021407779&perks=2173046394,3966416502#notes:Out of Bounds: Voltshot 100% / Jolting Feedback 100% | True God: Hammer-Forged Rifling, Ricochet Rounds, Voltshot, Jolting Feedback [Retr0gr4d3's Curated List · 52 rolls]
+
+// Outrageous Fortune (Grenade Launcher) — 68 community rolls, 1 combos
+// True God: Quick Launch, Spike Grenades, Auto-Loading Holster, Rampage
+dimwishlist:item=4146702548&perks=3525010810,3301904089,3300816228,3425386926#notes:True God: Quick Launch, Spike Grenades, Auto-Loading Holster, Rampage [Retr0gr4d3's Curated List · Voltron fallback · 68 rolls]
+dimwishlist:item=4146702548&perks=3300816228,3425386926#notes:Outrageous Fortune: Auto-Loading Holster 82% / Rampage 76% | True God: Quick Launch, Spike Grenades, Auto-Loading Holster, Rampage [Retr0gr4d3's Curated List · Voltron fallback · 68 rolls]
 
 // Outrageous Fortune (Grenade Launcher) — 19 community rolls, 2 combos
 // True God: Quick Launch, Spike Grenades, Envious Arsenal, Bait and Switch
@@ -4515,6 +4807,16 @@ dimwishlist:item=3769072067&perks=3418782618,4293542123#notes:Parabellum: Rewind
 dimwishlist:item=3769072067&perks=3418782618,2890807135#notes:Parabellum: Rewind Rounds 93% / Burning Ambition 74% | True God: Arrowhead Brake, Flared Magwell, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 27 rolls]
 dimwishlist:item=3769072067&perks=3418782618,243981275#notes:Parabellum: Rewind Rounds 93% / Attrition Orbs 59% | True God: Arrowhead Brake, Flared Magwell, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 27 rolls]
 
+// Parcel of Stardust (Shotgun) — 3 community rolls, 1 combos
+// True God: Full Choke, Assault Mag, Opening Shot, Rampage
+dimwishlist:item=2217366863&perks=1047830412,791862061,47981717,3425386926#notes:True God: Full Choke, Assault Mag, Opening Shot, Rampage [Retr0gr4d3's Curated List · Voltron fallback · 3 rolls]
+dimwishlist:item=2217366863&perks=47981717,3425386926#notes:Parcel of Stardust: Opening Shot 100% / Rampage 67% | True God: Full Choke, Assault Mag, Opening Shot, Rampage [Retr0gr4d3's Curated List · Voltron fallback · 3 rolls]
+
+// Patron of Lost Causes (Scout Rifle) — 3 community rolls, 1 combos
+// True God: Chambered Compensator, Tactical Mag, Rapid Hit, Explosive Payload
+dimwishlist:item=2723241847&perks=3661387068,106909392,247725512,3038247973#notes:True God: Chambered Compensator, Tactical Mag, Rapid Hit, Explosive Payload [Retr0gr4d3's Curated List · Voltron fallback · 3 rolls]
+dimwishlist:item=2723241847&perks=247725512,3038247973#notes:Patron of Lost Causes: Rapid Hit 100% / Explosive Payload 100% | True God: Chambered Compensator, Tactical Mag, Rapid Hit, Explosive Payload [Retr0gr4d3's Curated List · Voltron fallback · 3 rolls]
+
 // Patron of Lost Causes (Scout Rifle) — 11 community rolls, 6 combos
 // True God: Arrowhead Brake, Tactical Mag, Rapid Hit, Explosive Payload
 dimwishlist:item=2249996761&perks=839105230,106909392,247725512,3038247973#notes:True God: Arrowhead Brake, Tactical Mag, Rapid Hit, Explosive Payload [Retr0gr4d3's Curated List · 11 rolls]
@@ -4572,6 +4874,14 @@ dimwishlist:item=4108648762&perks=691659142,2679249093#notes:Perfect Paradox: Pu
 dimwishlist:item=4108648762&perks=691659142,2360754333#notes:Perfect Paradox: Pugilist 100% / Trench Barrel 100% | True God: Barrel Shroud, Tactical Mag, Pugilist, One-Two Punch [Retr0gr4d3's Curated List · 37 rolls]
 dimwishlist:item=4108648762&perks=1517798362,2679249093#notes:Perfect Paradox: Stopping Power 65% / One-Two Punch 100% | True God: Barrel Shroud, Tactical Mag, Pugilist, One-Two Punch [Retr0gr4d3's Curated List · 37 rolls]
 dimwishlist:item=4108648762&perks=1517798362,2360754333#notes:Perfect Paradox: Stopping Power 65% / Trench Barrel 100% | True God: Barrel Shroud, Tactical Mag, Pugilist, One-Two Punch [Retr0gr4d3's Curated List · 37 rolls]
+
+// Perfect Pitch (Submachine Gun) — 4 community rolls, 4 combos
+// True God: Smallbore, Light Mag, Subsistence, Incandescent
+dimwishlist:item=3276304504&perks=1482024992,679225683,1820235745,4293542123#notes:True God: Smallbore, Light Mag, Subsistence, Incandescent [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+dimwishlist:item=3276304504&perks=1820235745,4293542123#notes:Perfect Pitch: Subsistence 50% / Incandescent 50% | True God: Smallbore, Light Mag, Subsistence, Incandescent [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+dimwishlist:item=3276304504&perks=1820235745,95528736#notes:Perfect Pitch: Subsistence 50% / Onslaught 50% | True God: Smallbore, Light Mag, Subsistence, Incandescent [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+dimwishlist:item=3276304504&perks=3938834702,4293542123#notes:Perfect Pitch: To the Pain 50% / Incandescent 50% | True God: Smallbore, Light Mag, Subsistence, Incandescent [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+dimwishlist:item=3276304504&perks=3938834702,95528736#notes:Perfect Pitch: To the Pain 50% / Onslaught 50% | True God: Smallbore, Light Mag, Subsistence, Incandescent [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
 
 // Perfect Pitch (Submachine Gun) — 35 community rolls, 9 combos
 // True God: Smallbore, Ricochet Rounds, Heal Clip, Incandescent
@@ -4675,6 +4985,11 @@ dimwishlist:item=3635821806&perks=1115162408,3218042543#notes:Phyllotactic Spira
 dimwishlist:item=3635821806&perks=3619207468,2173046394#notes:Phyllotactic Spiral: Keep Away 50% / Voltshot 100% | True God: Arrowhead Brake, Ricochet Rounds, Rapid Hit, Voltshot [Retr0gr4d3's Curated List · 6 rolls]
 dimwishlist:item=3635821806&perks=3619207468,3218042543#notes:Phyllotactic Spiral: Keep Away 50% / Rolling Storm 67% | True God: Arrowhead Brake, Ricochet Rounds, Rapid Hit, Voltshot [Retr0gr4d3's Curated List · 6 rolls]
 
+// Pillager (Submachine Gun) — 25 community rolls, 1 combos
+// True God: Polygonal Rifling, High-Caliber Rounds, Outlaw, Kill Clip
+dimwishlist:item=2653316158&perks=1392496348,1561002382,1168162263,1015611457#notes:True God: Polygonal Rifling, High-Caliber Rounds, Outlaw, Kill Clip [Retr0gr4d3's Curated List · Voltron fallback · 25 rolls]
+dimwishlist:item=2653316158&perks=1168162263,1015611457#notes:Pillager: Outlaw 52% / Kill Clip 52% | True God: Polygonal Rifling, High-Caliber Rounds, Outlaw, Kill Clip [Retr0gr4d3's Curated List · Voltron fallback · 25 rolls]
+
 // PLUG ONE.1 (Fusion Rifle) — 17 community rolls, 6 combos
 // True God: Arrowhead Brake, Accelerated Coils, Reconstruction, Closing Time
 dimwishlist:item=3293524502&perks=3048246338,689005463,1523832109,1194056669#notes:True God: Arrowhead Brake, Accelerated Coils, Reconstruction, Closing Time [Retr0gr4d3's Curated List · 17 rolls]
@@ -4705,11 +5020,24 @@ dimwishlist:item=3106557243&perks=3755250867,1194056669#notes:PLUG ONE.1 (Adept)
 dimwishlist:item=3106557243&perks=3755250867,2594592626#notes:PLUG ONE.1 (Adept): Under Pressure 71% / Controlled Burst 82% | True God: Arrowhead Brake, Accelerated Coils, Reconstruction, Closing Time [Retr0gr4d3's Curated List · 17 rolls]
 dimwishlist:item=3106557243&perks=3755250867,1427256713#notes:PLUG ONE.1 (Adept): Under Pressure 71% / Reservoir Burst 82% | True God: Arrowhead Brake, Accelerated Coils, Reconstruction, Closing Time [Retr0gr4d3's Curated List · 17 rolls]
 
+// Pluperfect (Auto Rifle) — 2 community rolls, 4 combos
+// True God: Chambered Compensator, Ricochet Rounds, Slideways, Kill Clip
+dimwishlist:item=1952163498&perks=3661387068,1885400500,2039302152,1015611457#notes:True God: Chambered Compensator, Ricochet Rounds, Slideways, Kill Clip [Retr0gr4d3's Curated List · Voltron fallback · 2 rolls]
+dimwishlist:item=1952163498&perks=2039302152,1015611457#notes:Pluperfect: Slideways 50% / Kill Clip 50% | True God: Chambered Compensator, Ricochet Rounds, Slideways, Kill Clip [Retr0gr4d3's Curated List · Voltron fallback · 2 rolls]
+dimwishlist:item=1952163498&perks=2039302152,3425386926#notes:Pluperfect: Slideways 50% / Rampage 50% | True God: Chambered Compensator, Ricochet Rounds, Slideways, Kill Clip [Retr0gr4d3's Curated List · Voltron fallback · 2 rolls]
+dimwishlist:item=1952163498&perks=2387244414,1015611457#notes:Pluperfect: Zen Moment 50% / Kill Clip 50% | True God: Chambered Compensator, Ricochet Rounds, Slideways, Kill Clip [Retr0gr4d3's Curated List · Voltron fallback · 2 rolls]
+dimwishlist:item=1952163498&perks=2387244414,3425386926#notes:Pluperfect: Zen Moment 50% / Rampage 50% | True God: Chambered Compensator, Ricochet Rounds, Slideways, Kill Clip [Retr0gr4d3's Curated List · Voltron fallback · 2 rolls]
+
 // Pluperfect (Auto Rifle) — 54 community rolls, 2 combos
 // True God: Arrowhead Brake, Flared Magwell, Rewind Rounds, Kinetic Tremors
 dimwishlist:item=2203881482&perks=839105230,3230963543,3418782618,3891536761#notes:True God: Arrowhead Brake, Flared Magwell, Rewind Rounds, Kinetic Tremors [Retr0gr4d3's Curated List · 54 rolls]
 dimwishlist:item=2203881482&perks=3418782618,3891536761#notes:Pluperfect: Rewind Rounds 100% / Kinetic Tremors 100% | True God: Arrowhead Brake, Flared Magwell, Rewind Rounds, Kinetic Tremors [Retr0gr4d3's Curated List · 54 rolls]
 dimwishlist:item=2203881482&perks=1517798362,3891536761#notes:Pluperfect: Stopping Power 65% / Kinetic Tremors 100% | True God: Arrowhead Brake, Flared Magwell, Rewind Rounds, Kinetic Tremors [Retr0gr4d3's Curated List · 54 rolls]
+
+// Point of the Stag (Combat Bow) — 30 community rolls, 1 combos
+// True God: Elastic String, Natural Fletching, No Distractions, Eye of the Storm
+dimwishlist:item=3434944005&perks=2801223209,1500996326,2866798147,699525795#notes:True God: Elastic String, Natural Fletching, No Distractions, Eye of the Storm [Retr0gr4d3's Curated List · Voltron fallback · 30 rolls]
+dimwishlist:item=3434944005&perks=2866798147,699525795#notes:Point of the Stag: No Distractions 53% / Eye of the Storm 53% | True God: Elastic String, Natural Fletching, No Distractions, Eye of the Storm [Retr0gr4d3's Curated List · Voltron fallback · 30 rolls]
 
 // Point of the Stag (Combat Bow) — 44 community rolls, 6 combos
 // True God: Elastic String, Compact Arrow Shaft, Dragonfly, Voltshot
@@ -5082,6 +5410,14 @@ dimwishlist:item=3448712083&perks=1115162408,654512643#notes:Rapid Growth: Trick
 dimwishlist:item=3448712083&perks=1115162408,3764420437#notes:Rapid Growth: Trickle Charge 60% / Aggregate Charge 100% | True God: Fluted Barrel, Tactical Mag, Fourth Time's the Charm, Gear Shift [Retr0gr4d3's Curated List · 47 rolls]
 dimwishlist:item=3448712083&perks=1115162408,3966416502#notes:Rapid Growth: Trickle Charge 60% / Jolting Feedback 57% | True God: Fluted Barrel, Tactical Mag, Fourth Time's the Charm, Gear Shift [Retr0gr4d3's Curated List · 47 rolls]
 
+// Reckless Endangerment (Shotgun) — 4 community rolls, 4 combos
+// True God: Full Choke, Assault Mag, Perpetual Motion, Snapshot Sights
+dimwishlist:item=3216652511&perks=1047830412,791862061,1428297954,957782887#notes:True God: Full Choke, Assault Mag, Perpetual Motion, Snapshot Sights [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+dimwishlist:item=3216652511&perks=1428297954,957782887#notes:Reckless Endangerment: Perpetual Motion 50% / Snapshot Sights 50% | True God: Full Choke, Assault Mag, Perpetual Motion, Snapshot Sights [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+dimwishlist:item=3216652511&perks=1428297954,4082225868#notes:Reckless Endangerment: Perpetual Motion 50% / Swashbuckler 50% | True God: Full Choke, Assault Mag, Perpetual Motion, Snapshot Sights [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+dimwishlist:item=3216652511&perks=509074078,957782887#notes:Reckless Endangerment: Steady Hands 50% / Snapshot Sights 50% | True God: Full Choke, Assault Mag, Perpetual Motion, Snapshot Sights [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+dimwishlist:item=3216652511&perks=509074078,4082225868#notes:Reckless Endangerment: Steady Hands 50% / Swashbuckler 50% | True God: Full Choke, Assault Mag, Perpetual Motion, Snapshot Sights [Retr0gr4d3's Curated List · Voltron fallback · 4 rolls]
+
 // Reckless Endangerment (Shotgun) — 11 community rolls, 4 combos
 // True God: Smallbore, Accurized Rounds, Lone Wolf, Opening Shot
 dimwishlist:item=3085559077&perks=1482024992,3142289711,2579169598,47981717#notes:True God: Smallbore, Accurized Rounds, Lone Wolf, Opening Shot [Retr0gr4d3's Curated List · 11 rolls]
@@ -5201,6 +5537,11 @@ dimwishlist:item=2831259643&perks=960997401,831391274#notes:Relentless: Tear 55%
 dimwishlist:item=2831259643&perks=960997401,460017080#notes:Relentless: Tear 55% / Headseeker 74% | True God: Arrowhead Brake, Ricochet Rounds, Firefly, Hatchling [Retr0gr4d3's Curated List · 31 rolls]
 dimwishlist:item=2831259643&perks=960997401,3047969693#notes:Relentless: Tear 55% / Desperado 65% | True God: Arrowhead Brake, Ricochet Rounds, Firefly, Hatchling [Retr0gr4d3's Curated List · 31 rolls]
 
+// Resounding (Fusion Rifle) — 9 community rolls, 1 combos
+// True God: Smallbore, Particle Repeater, Subsistence, Reservoir Burst
+dimwishlist:item=1824586582&perks=1482024992,3868766766,1820235745,1427256713#notes:True God: Smallbore, Particle Repeater, Subsistence, Reservoir Burst [Retr0gr4d3's Curated List · Voltron fallback · 9 rolls]
+dimwishlist:item=1824586582&perks=1820235745,1427256713#notes:Resounding: Subsistence 56% / Reservoir Burst 56% | True God: Smallbore, Particle Repeater, Subsistence, Reservoir Burst [Retr0gr4d3's Curated List · Voltron fallback · 9 rolls]
+
 // Resounding (Fusion Rifle) — 7 community rolls, 6 combos
 // True God: Arrowhead Brake, Liquid Coils, Subsistence, Reservoir Burst
 dimwishlist:item=3273807888&perks=839105230,1687452232,1820235745,1427256713#notes:True God: Arrowhead Brake, Liquid Coils, Subsistence, Reservoir Burst [Retr0gr4d3's Curated List · 7 rolls]
@@ -5241,18 +5582,18 @@ dimwishlist:item=3688176697&perks=3300816228,2048641572#notes:Retrofuturist: Aut
 dimwishlist:item=3688176697&perks=25606670,2360754333#notes:Retrofuturist: Dual Loader 60% / Trench Barrel 100% | True God: Smallbore, Assault Mag, Auto-Loading Holster, Trench Barrel [Retr0gr4d3's Curated List · 5 rolls]
 dimwishlist:item=3688176697&perks=25606670,2048641572#notes:Retrofuturist: Dual Loader 60% / Destabilizing Rounds 60% | True God: Smallbore, Assault Mag, Auto-Loading Holster, Trench Barrel [Retr0gr4d3's Curated List · 5 rolls]
 
-// Returned Memory (Sidearm) — 22 community rolls, 9 combos
+// Returned Memory (Sidearm) — 21 community rolls, 9 combos
 // True God: Quick Launch, Tactical Mag, Heal Clip, Incandescent
-dimwishlist:item=4049127142&perks=3525010810,106909392,3017780555,4293542123#notes:True God: Quick Launch, Tactical Mag, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 22 rolls]
-dimwishlist:item=4049127142&perks=3017780555,4293542123#notes:Returned Memory: Heal Clip 100% / Incandescent 100% | True God: Quick Launch, Tactical Mag, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 22 rolls]
-dimwishlist:item=4049127142&perks=3017780555,3201496230#notes:Returned Memory: Heal Clip 100% / Redirection 68% | True God: Quick Launch, Tactical Mag, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 22 rolls]
-dimwishlist:item=4049127142&perks=3017780555,2890807135#notes:Returned Memory: Heal Clip 100% / Burning Ambition 64% | True God: Quick Launch, Tactical Mag, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 22 rolls]
-dimwishlist:item=4049127142&perks=2360347339,4293542123#notes:Returned Memory: Impromptu Ammunition 77% / Incandescent 100% | True God: Quick Launch, Tactical Mag, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 22 rolls]
-dimwishlist:item=4049127142&perks=2360347339,3201496230#notes:Returned Memory: Impromptu Ammunition 77% / Redirection 68% | True God: Quick Launch, Tactical Mag, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 22 rolls]
-dimwishlist:item=4049127142&perks=2360347339,2890807135#notes:Returned Memory: Impromptu Ammunition 77% / Burning Ambition 64% | True God: Quick Launch, Tactical Mag, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 22 rolls]
-dimwishlist:item=4049127142&perks=1556840489,4293542123#notes:Returned Memory: Lead from Gold 73% / Incandescent 100% | True God: Quick Launch, Tactical Mag, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 22 rolls]
-dimwishlist:item=4049127142&perks=1556840489,3201496230#notes:Returned Memory: Lead from Gold 73% / Redirection 68% | True God: Quick Launch, Tactical Mag, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 22 rolls]
-dimwishlist:item=4049127142&perks=1556840489,2890807135#notes:Returned Memory: Lead from Gold 73% / Burning Ambition 64% | True God: Quick Launch, Tactical Mag, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 22 rolls]
+dimwishlist:item=4049127142&perks=3525010810,106909392,3017780555,4293542123#notes:True God: Quick Launch, Tactical Mag, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 21 rolls]
+dimwishlist:item=4049127142&perks=3017780555,4293542123#notes:Returned Memory: Heal Clip 100% / Incandescent 100% | True God: Quick Launch, Tactical Mag, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 21 rolls]
+dimwishlist:item=4049127142&perks=3017780555,2890807135#notes:Returned Memory: Heal Clip 100% / Burning Ambition 67% | True God: Quick Launch, Tactical Mag, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 21 rolls]
+dimwishlist:item=4049127142&perks=3017780555,3201496230#notes:Returned Memory: Heal Clip 100% / Redirection 62% | True God: Quick Launch, Tactical Mag, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 21 rolls]
+dimwishlist:item=4049127142&perks=1556840489,4293542123#notes:Returned Memory: Lead from Gold 71% / Incandescent 100% | True God: Quick Launch, Tactical Mag, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 21 rolls]
+dimwishlist:item=4049127142&perks=1556840489,2890807135#notes:Returned Memory: Lead from Gold 71% / Burning Ambition 67% | True God: Quick Launch, Tactical Mag, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 21 rolls]
+dimwishlist:item=4049127142&perks=1556840489,3201496230#notes:Returned Memory: Lead from Gold 71% / Redirection 62% | True God: Quick Launch, Tactical Mag, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 21 rolls]
+dimwishlist:item=4049127142&perks=2360347339,4293542123#notes:Returned Memory: Impromptu Ammunition 71% / Incandescent 100% | True God: Quick Launch, Tactical Mag, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 21 rolls]
+dimwishlist:item=4049127142&perks=2360347339,2890807135#notes:Returned Memory: Impromptu Ammunition 71% / Burning Ambition 67% | True God: Quick Launch, Tactical Mag, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 21 rolls]
+dimwishlist:item=4049127142&perks=2360347339,3201496230#notes:Returned Memory: Impromptu Ammunition 71% / Redirection 62% | True God: Quick Launch, Tactical Mag, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 21 rolls]
 
 // Ribbontail (Trace Rifle) — 19 community rolls, 1 combos
 // True God: Arrowhead Brake, Enhanced Battery, Subsistence, Detonator Beam
@@ -5410,6 +5751,11 @@ dimwishlist:item=2241507890&perks=3523296417,3824105627#notes:Sacred Provenance:
 dimwishlist:item=2241507890&perks=1517798362,3891536761#notes:Sacred Provenance: Stopping Power 55% / Kinetic Tremors 100% | True God: Arrowhead Brake, Ricochet Rounds, Rapid Hit, Kinetic Tremors [Retr0gr4d3's Curated List · 11 rolls]
 dimwishlist:item=2241507890&perks=1517798362,3047969693#notes:Sacred Provenance: Stopping Power 55% / Desperado 64% | True God: Arrowhead Brake, Ricochet Rounds, Rapid Hit, Kinetic Tremors [Retr0gr4d3's Curated List · 11 rolls]
 dimwishlist:item=2241507890&perks=1517798362,3824105627#notes:Sacred Provenance: Stopping Power 55% / Firefly 55% | True God: Arrowhead Brake, Ricochet Rounds, Rapid Hit, Kinetic Tremors [Retr0gr4d3's Curated List · 11 rolls]
+
+// Salvager's Salvo (Grenade Launcher) — 30 community rolls, 1 combos
+// True God: Quick Launch, Spike Grenades, Demolitionist, Vorpal Weapon
+dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,1546637391#notes:True God: Quick Launch, Spike Grenades, Demolitionist, Vorpal Weapon [Retr0gr4d3's Curated List · Voltron fallback · 30 rolls]
+dimwishlist:item=2060863616&perks=3523296417,1546637391#notes:Salvager's Salvo: Demolitionist 53% / Vorpal Weapon 53% | True God: Quick Launch, Spike Grenades, Demolitionist, Vorpal Weapon [Retr0gr4d3's Curated List · Voltron fallback · 30 rolls]
 
 // Salvager's Salvo (Grenade Launcher) — 62 community rolls, 4 combos
 // True God: Quick Launch, Spike Grenades, Trickle Charge, Gear Shift
@@ -5692,6 +6038,11 @@ dimwishlist:item=4032097588&perks=3619207468,657025441#notes:Sixth Sense: Keep A
 dimwishlist:item=4032097588&perks=3619207468,831391274#notes:Sixth Sense: Keep Away 68% / Hatchling 68% | True God: Fluted Barrel, Ricochet Rounds, Explosive Payload, Meganeura [Retr0gr4d3's Curated List · 41 rolls]
 dimwishlist:item=4032097588&perks=3619207468,699525795#notes:Sixth Sense: Keep Away 68% / Eye of the Storm 56% | True God: Fluted Barrel, Ricochet Rounds, Explosive Payload, Meganeura [Retr0gr4d3's Curated List · 41 rolls]
 
+// Slayer's Fang (Shotgun) — 1 community rolls, 1 combos
+// True God: Arrowhead Brake, Assault Mag, Heart Piercer, Short-Action Stock
+dimwishlist:item=1047932517&perks=839105230,791862061,2607392828,1067908860#notes:True God: Arrowhead Brake, Assault Mag, Heart Piercer, Short-Action Stock [Retr0gr4d3's Curated List · Voltron fallback · 1 rolls]
+dimwishlist:item=1047932517&perks=2607392828,1067908860#notes:Slayer's Fang: Heart Piercer 100% / Short-Action Stock 100% | True God: Arrowhead Brake, Assault Mag, Heart Piercer, Short-Action Stock [Retr0gr4d3's Curated List · Voltron fallback · 1 rolls]
+
 // Sleepless (Rocket Launcher) — 8 community rolls, 9 combos
 // True God: Quick Launch, Impact Casing, Reconstruction, Bait and Switch
 dimwishlist:item=1738552769&perks=3525010810,3796465595,1523832109,3078487919#notes:True God: Quick Launch, Impact Casing, Reconstruction, Bait and Switch [Retr0gr4d3's Curated List · 8 rolls]
@@ -5795,6 +6146,11 @@ dimwishlist:item=3232203524&perks=4071163871,47981717#notes:Someday: Threat Dete
 dimwishlist:item=3232203524&perks=4071163871,469285294#notes:Someday: Threat Detector 100% / Recombination 74% | True God: Barrel Shroud, Accurized Rounds, Threat Detector, Opening Shot [Retr0gr4d3's Curated List · 19 rolls]
 dimwishlist:item=3232203524&perks=2679249093,47981717#notes:Someday: One-Two Punch 74% / Opening Shot 100% | True God: Barrel Shroud, Accurized Rounds, Threat Detector, Opening Shot [Retr0gr4d3's Curated List · 19 rolls]
 dimwishlist:item=3232203524&perks=2679249093,469285294#notes:Someday: One-Two Punch 74% / Recombination 74% | True God: Barrel Shroud, Accurized Rounds, Threat Detector, Opening Shot [Retr0gr4d3's Curated List · 19 rolls]
+
+// Something New (Hand Cannon) — 48 community rolls, 1 combos
+// True God: Fluted Barrel, Flared Magwell, Wellspring, Frenzy
+dimwishlist:item=3240434620&perks=1840239774,3230963543,3592538738,4104185692#notes:True God: Fluted Barrel, Flared Magwell, Wellspring, Frenzy [Retr0gr4d3's Curated List · Voltron fallback · 48 rolls]
+dimwishlist:item=3240434620&perks=3592538738,4104185692#notes:Something New: Wellspring 62% / Frenzy 50% | True God: Fluted Barrel, Flared Magwell, Wellspring, Frenzy [Retr0gr4d3's Curated List · Voltron fallback · 48 rolls]
 
 // Something New (Hand Cannon) — 45 community rolls, 6 combos
 // True God: Fluted Barrel, Ricochet Rounds, Keep Away, Precision Instrument
@@ -5945,6 +6301,11 @@ dimwishlist:item=3910523587&perks=1955165503,124408337#notes:Stay Frosty: Rimest
 dimwishlist:item=3910523587&perks=1955165503,460017080#notes:Stay Frosty: Rimestealer 100% / Headseeker 67% | True God: Smallbore, Accurized Rounds, Rimestealer, Headstone [Retr0gr4d3's Curated List · 18 rolls]
 dimwishlist:item=3910523587&perks=2579169598,124408337#notes:Stay Frosty: Lone Wolf 78% / Headstone 100% | True God: Smallbore, Accurized Rounds, Rimestealer, Headstone [Retr0gr4d3's Curated List · 18 rolls]
 dimwishlist:item=3910523587&perks=2579169598,460017080#notes:Stay Frosty: Lone Wolf 78% / Headseeker 67% | True God: Smallbore, Accurized Rounds, Rimestealer, Headstone [Retr0gr4d3's Curated List · 18 rolls]
+
+// Steel Sybil Z-14 (Sword) — 37 community rolls, 1 combos
+// True God: Jagged Edge, Swordmaster's Guard, Tireless Blade, Whirlwind Blade
+dimwishlist:item=4230993599&perks=3666208348,269888150,2590710093,3913600130#notes:True God: Jagged Edge, Swordmaster's Guard, Tireless Blade, Whirlwind Blade [Retr0gr4d3's Curated List · Voltron fallback · 37 rolls]
+dimwishlist:item=4230993599&perks=2590710093,3913600130#notes:Steel Sybil Z-14: Tireless Blade 51% / Whirlwind Blade 73% | True God: Jagged Edge, Swordmaster's Guard, Tireless Blade, Whirlwind Blade [Retr0gr4d3's Curated List · Voltron fallback · 37 rolls]
 
 // Steelfeather Repeater (Auto Rifle) — 32 community rolls, 9 combos
 // True God: Arrowhead Brake, Ricochet Rounds, Bewildering Burst, Swashbuckler
@@ -6136,6 +6497,11 @@ dimwishlist:item=2152350211&perks=699525795,1015611457#notes:Survivor's Epitaph:
 dimwishlist:item=2152350211&perks=699525795,555281244#notes:Survivor's Epitaph: Eye of the Storm 59% / Precision Instrument 93% | True God: Hammer-Forged Rifling, Accurized Rounds, Rapid Hit, Kill Clip [Retr0gr4d3's Curated List · 27 rolls]
 dimwishlist:item=2152350211&perks=699525795,3038247973#notes:Survivor's Epitaph: Eye of the Storm 59% / Explosive Payload 67% | True God: Hammer-Forged Rifling, Accurized Rounds, Rapid Hit, Kill Clip [Retr0gr4d3's Curated List · 27 rolls]
 
+// Swarm of the Raven (Grenade Launcher) — 84 community rolls, 1 combos
+// True God: Quick Launch, Spike Grenades, Auto-Loading Holster, Rampage
+dimwishlist:item=1972985595&perks=3525010810,3301904089,3300816228,3425386926#notes:True God: Quick Launch, Spike Grenades, Auto-Loading Holster, Rampage [Retr0gr4d3's Curated List · Voltron fallback · 84 rolls]
+dimwishlist:item=1972985595&perks=3300816228,3425386926#notes:Swarm of the Raven: Auto-Loading Holster 69% / Rampage 64% | True God: Quick Launch, Spike Grenades, Auto-Loading Holster, Rampage [Retr0gr4d3's Curated List · Voltron fallback · 84 rolls]
+
 // Swordbreaker (Shotgun) — 14 community rolls, 9 combos
 // True God: Full Choke, Assault Mag, Slice, One-Two Punch
 dimwishlist:item=3163900678&perks=1047830412,791862061,923806249,2679249093#notes:True God: Full Choke, Assault Mag, Slice, One-Two Punch [Retr0gr4d3's Curated List · 14 rolls]
@@ -6289,6 +6655,11 @@ dimwishlist:item=2721157927&perks=968510818,3078487919#notes:Tarnation: Envious 
 dimwishlist:item=2721157927&perks=968510818,3194351027#notes:Tarnation: Envious Assassin 100% / Explosive Light 50% | True God: Quick Launch, Spike Grenades, Envious Assassin, Bait and Switch [Retr0gr4d3's Curated List · 6 rolls]
 dimwishlist:item=2721157927&perks=2284787283,3078487919#notes:Tarnation: Clown Cartridge 50% / Bait and Switch 100% | True God: Quick Launch, Spike Grenades, Envious Assassin, Bait and Switch [Retr0gr4d3's Curated List · 6 rolls]
 dimwishlist:item=2721157927&perks=2284787283,3194351027#notes:Tarnation: Clown Cartridge 50% / Explosive Light 50% | True God: Quick Launch, Spike Grenades, Envious Assassin, Bait and Switch [Retr0gr4d3's Curated List · 6 rolls]
+
+// Tarrabah (Submachine Gun) — 1 community rolls, 1 combos
+// True God: Extended Barrel, Armor-Piercing Rounds, Bottomless Appetite
+dimwishlist:item=3110698812&perks=1467527085,1968497646,3351002503#notes:True God: Extended Barrel, Armor-Piercing Rounds, Bottomless Appetite [Retr0gr4d3's Curated List · Voltron fallback · 1 rolls]
+dimwishlist:item=3110698812&perks=3351002503#notes:Tarrabah: Bottomless Appetite 100% | True God: Extended Barrel, Armor-Piercing Rounds, Bottomless Appetite [Retr0gr4d3's Curated List · Voltron fallback · 1 rolls]
 
 // Tatara Gaze (Sniper Rifle) — 41 community rolls, 9 combos
 // True God: Fluted Barrel, Accurized Rounds, Rewind Rounds, Closing Time
@@ -6447,6 +6818,11 @@ dimwishlist:item=2263839058&perks=3436462433,2846385770#notes:The Epicurean: Sur
 dimwishlist:item=2263839058&perks=3436462433,776531651#notes:The Epicurean: Surplus 80% / Repulsor Brace 60% | True God: Fluted Barrel, Projection Fuse, Quickdraw, Rangefinder [Retr0gr4d3's Curated List · 5 rolls]
 dimwishlist:item=2263839058&perks=2779035018,2846385770#notes:The Epicurean: Feeding Frenzy 60% / Rangefinder 100% | True God: Fluted Barrel, Projection Fuse, Quickdraw, Rangefinder [Retr0gr4d3's Curated List · 5 rolls]
 dimwishlist:item=2263839058&perks=2779035018,776531651#notes:The Epicurean: Feeding Frenzy 60% / Repulsor Brace 60% | True God: Fluted Barrel, Projection Fuse, Quickdraw, Rangefinder [Retr0gr4d3's Curated List · 5 rolls]
+
+// The Epicurean (Fusion Rifle) — 31 community rolls, 1 combos
+// True God: Hammer-Forged Rifling, Projection Fuse, Tap the Trigger, Backup Plan
+dimwishlist:item=4124357815&perks=3250034553,2969185026,1890422124,1600092898#notes:True God: Hammer-Forged Rifling, Projection Fuse, Tap the Trigger, Backup Plan [Retr0gr4d3's Curated List · Voltron fallback · 31 rolls]
+dimwishlist:item=4124357815&perks=1890422124,1600092898#notes:The Epicurean: Tap the Trigger 100% / Backup Plan 52% | True God: Hammer-Forged Rifling, Projection Fuse, Tap the Trigger, Backup Plan [Retr0gr4d3's Curated List · Voltron fallback · 31 rolls]
 
 // The Ever-Present (Grenade Launcher) — 16 community rolls, 6 combos
 // True God: Quick Launch, Spike Grenades, Envious Arsenal, Bait and Switch
@@ -6643,6 +7019,21 @@ dimwishlist:item=4277548087&perks=588594999,3047969693#notes:The Messenger: Movi
 dimwishlist:item=4277548087&perks=3824105627,460017080#notes:The Messenger: Firefly 57% / Headseeker 100% | True God: Arrowhead Brake, Ricochet Rounds, Rapid Hit, Headseeker [Retr0gr4d3's Curated List · 28 rolls]
 dimwishlist:item=4277548087&perks=3824105627,3047969693#notes:The Messenger: Firefly 57% / Desperado 82% | True God: Arrowhead Brake, Ricochet Rounds, Rapid Hit, Headseeker [Retr0gr4d3's Curated List · 28 rolls]
 
+// The Militia's Birthright (Grenade Launcher) — 34 community rolls, 1 combos
+// True God: Quick Launch, Spike Grenades, Ambitious Assassin, Auto-Loading Holster
+dimwishlist:item=1854753405&perks=3525010810,3301904089,2010801679,3300816228#notes:True God: Quick Launch, Spike Grenades, Ambitious Assassin, Auto-Loading Holster [Retr0gr4d3's Curated List · Voltron fallback · 34 rolls]
+dimwishlist:item=1854753405&perks=2010801679,3300816228#notes:The Militia's Birthright: Ambitious Assassin 53% / Auto-Loading Holster 59% | True God: Quick Launch, Spike Grenades, Ambitious Assassin, Auto-Loading Holster [Retr0gr4d3's Curated List · Voltron fallback · 34 rolls]
+
+// The Militia's Birthright (Adept) (Grenade Launcher) — 30 community rolls, 1 combos
+// True God: Quick Launch, Spike Grenades, Ambitious Assassin, Auto-Loading Holster
+dimwishlist:item=4162642204&perks=3525010810,3301904089,2010801679,3300816228#notes:True God: Quick Launch, Spike Grenades, Ambitious Assassin, Auto-Loading Holster [Retr0gr4d3's Curated List · Voltron fallback · 30 rolls]
+dimwishlist:item=4162642204&perks=2010801679,3300816228#notes:The Militia's Birthright (Adept): Ambitious Assassin 60% / Auto-Loading Holster 60% | True God: Quick Launch, Spike Grenades, Ambitious Assassin, Auto-Loading Holster [Retr0gr4d3's Curated List · Voltron fallback · 30 rolls]
+
+// The Mountaintop (Grenade Launcher) — 2 community rolls, 1 combos
+// True God: Volatile Launch, Spike Grenades, Rangefinder
+dimwishlist:item=3993415705&perks=1478423395,3301904089,2846385770#notes:True God: Volatile Launch, Spike Grenades, Rangefinder [Retr0gr4d3's Curated List · Voltron fallback · 2 rolls]
+dimwishlist:item=3993415705&perks=2846385770#notes:The Mountaintop: Rangefinder 100% | True God: Volatile Launch, Spike Grenades, Rangefinder [Retr0gr4d3's Curated List · Voltron fallback · 2 rolls]
+
 // The Mountaintop (Grenade Launcher) — 49 community rolls, 2 combos
 // True God: Quick Launch, Spike Grenades, Auto-Loading Holster, Recombination
 dimwishlist:item=3736001861&perks=3525010810,3301904089,3300816228,469285294#notes:True God: Quick Launch, Spike Grenades, Auto-Loading Holster, Recombination [Retr0gr4d3's Curated List · 49 rolls]
@@ -6746,6 +7137,12 @@ dimwishlist:item=189854537&perks=2077819806,3640170453#notes:The Slammer: Eager 
 dimwishlist:item=189854537&perks=1749209109,3650930298#notes:The Slammer: Relentless Strikes 74% / Cold Steel 100% | True God: Jagged Edge, Swordmaster's Guard, Eager Edge, Cold Steel [Retr0gr4d3's Curated List · 34 rolls]
 dimwishlist:item=189854537&perks=1749209109,3640170453#notes:The Slammer: Relentless Strikes 74% / Chaos Reshaped 94% | True God: Jagged Edge, Swordmaster's Guard, Eager Edge, Cold Steel [Retr0gr4d3's Curated List · 34 rolls]
 
+// The Spiteful Fang (Combat Bow) — 2 community rolls, 2 combos
+// True God: Natural String, Fiberglass Arrow Shaft, Archer's Tempo, Explosive Head
+dimwishlist:item=421573768&perks=1784898267,3429800428,201365942,3365897133#notes:True God: Natural String, Fiberglass Arrow Shaft, Archer's Tempo, Explosive Head [Retr0gr4d3's Curated List · Voltron fallback · 2 rolls]
+dimwishlist:item=421573768&perks=201365942,3365897133#notes:The Spiteful Fang: Archer's Tempo 100% / Explosive Head 50% | True God: Natural String, Fiberglass Arrow Shaft, Archer's Tempo, Explosive Head [Retr0gr4d3's Curated List · Voltron fallback · 2 rolls]
+dimwishlist:item=421573768&perks=201365942,3425386926#notes:The Spiteful Fang: Archer's Tempo 100% / Rampage 50% | True God: Natural String, Fiberglass Arrow Shaft, Archer's Tempo, Explosive Head [Retr0gr4d3's Curated List · Voltron fallback · 2 rolls]
+
 // The Spiteful Fang (Combat Bow) — 43 community rolls, 9 combos
 // True God: Elastic String, Straight Fletching, Headstone, Firefly
 dimwishlist:item=1094998581&perks=2801223209,3827198035,124408337,3824105627#notes:True God: Elastic String, Straight Fletching, Headstone, Firefly [Retr0gr4d3's Curated List · 43 rolls]
@@ -6784,6 +7181,11 @@ dimwishlist:item=2884908760&perks=2387244414,4293542123#notes:The Summoner: Zen 
 dimwishlist:item=2884908760&perks=1359896290,365154968#notes:The Summoner: Dynamic Sway Reduction 52% / Target Lock 81% | True God: Arrowhead Brake, Ricochet Rounds, Heal Clip, Target Lock [Retr0gr4d3's Curated List · 31 rolls]
 dimwishlist:item=2884908760&perks=1359896290,95528736#notes:The Summoner: Dynamic Sway Reduction 52% / Onslaught 81% | True God: Arrowhead Brake, Ricochet Rounds, Heal Clip, Target Lock [Retr0gr4d3's Curated List · 31 rolls]
 dimwishlist:item=2884908760&perks=1359896290,4293542123#notes:The Summoner: Dynamic Sway Reduction 52% / Incandescent 52% | True God: Arrowhead Brake, Ricochet Rounds, Heal Clip, Target Lock [Retr0gr4d3's Curated List · 31 rolls]
+
+// The Supremacy (Sniper Rifle) — 150 community rolls, 1 combos
+// True God: Fluted Barrel, High-Caliber Rounds, Snapshot Sights, Triple Tap
+dimwishlist:item=686951703&perks=1840239774,1561002382,957782887,3400784728#notes:True God: Fluted Barrel, High-Caliber Rounds, Snapshot Sights, Triple Tap [Retr0gr4d3's Curated List · Voltron fallback · 150 rolls]
+dimwishlist:item=686951703&perks=957782887,3400784728#notes:The Supremacy: Snapshot Sights 83% / Triple Tap 73% | True God: Fluted Barrel, High-Caliber Rounds, Snapshot Sights, Triple Tap [Retr0gr4d3's Curated List · Voltron fallback · 150 rolls]
 
 // The Supremacy (Sniper Rifle) — 11 community rolls, 3 combos
 // True God: Arrowhead Brake, Appended Mag, Rewind Rounds, Kinetic Tremors
@@ -7021,6 +7423,11 @@ dimwishlist:item=2908653246&perks=1631667848,2679249093#notes:Triple Laureate: G
 // True God: Polymer String, Fiberglass Arrow Shaft, Archer's Tempo, Frenzy
 dimwishlist:item=3849444474&perks=852209214,3429800428,201365942,4104185692#notes:True God: Polymer String, Fiberglass Arrow Shaft, Archer's Tempo, Frenzy [Retr0gr4d3's Curated List · 5 rolls]
 dimwishlist:item=3849444474&perks=201365942,4104185692#notes:Tripwire Canary: Archer's Tempo 100% / Frenzy 80% | True God: Polymer String, Fiberglass Arrow Shaft, Archer's Tempo, Frenzy [Retr0gr4d3's Curated List · 5 rolls]
+
+// Trophy Hunter (Sniper Rifle) — 5 community rolls, 1 combos
+// True God: Corkscrew Rifling, Appended Mag, Triple Tap, Vorpal Weapon
+dimwishlist:item=4166221755&perks=4090651448,1087426260,3400784728,1546637391#notes:True God: Corkscrew Rifling, Appended Mag, Triple Tap, Vorpal Weapon [Retr0gr4d3's Curated List · Voltron fallback · 5 rolls]
+dimwishlist:item=4166221755&perks=3400784728,1546637391#notes:Trophy Hunter: Triple Tap 100% / Vorpal Weapon 100% | True God: Corkscrew Rifling, Appended Mag, Triple Tap, Vorpal Weapon [Retr0gr4d3's Curated List · Voltron fallback · 5 rolls]
 
 // Trophy Hunter (Sniper Rifle) — 37 community rolls, 6 combos
 // True God: Fluted Barrel, Tactical Mag, Triple Tap, Bait and Switch
@@ -7341,6 +7748,11 @@ dimwishlist:item=406384293&perks=1421772400,2890807135#notes:Veillantif-D: Air T
 dimwishlist:item=406384293&perks=1017229899,4293542123#notes:Veillantif-D: Blast Distributor 50% / Incandescent 100% | True God: Quick Launch, Tactical Mag, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 54 rolls]
 dimwishlist:item=406384293&perks=1017229899,3764420437#notes:Veillantif-D: Blast Distributor 50% / Aggregate Charge 69% | True God: Quick Launch, Tactical Mag, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 54 rolls]
 dimwishlist:item=406384293&perks=1017229899,2890807135#notes:Veillantif-D: Blast Distributor 50% / Burning Ambition 50% | True God: Quick Launch, Tactical Mag, Heal Clip, Incandescent [Retr0gr4d3's Curated List · 54 rolls]
+
+// Veles-X (Pulse Rifle) — 10 community rolls, 1 combos
+// True God: Chambered Compensator, Flared Magwell, Tunnel Vision, Kill Clip
+dimwishlist:item=2276328320&perks=3661387068,3230963543,2946784966,1015611457#notes:True God: Chambered Compensator, Flared Magwell, Tunnel Vision, Kill Clip [Retr0gr4d3's Curated List · Voltron fallback · 10 rolls]
+dimwishlist:item=2276328320&perks=2946784966,1015611457#notes:Veles-X: Tunnel Vision 60% / Kill Clip 60% | True God: Chambered Compensator, Flared Magwell, Tunnel Vision, Kill Clip [Retr0gr4d3's Curated List · Voltron fallback · 10 rolls]
 
 // Veles-X (Pulse Rifle) — 29 community rolls, 6 combos
 // True God: Arrowhead Brake, Ricochet Rounds, Repulsor Brace, Destabilizing Rounds
